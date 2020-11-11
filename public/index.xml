@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Cogid</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Cogid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiabilité des tests</title>
+      <link>https://example.com/docs/covid/testdiag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/covid/testdiag/</guid>
+      <description>Introduction #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la &amp;ldquo;fiabilité&amp;rdquo; des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+ Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, çàd de la proportion de personnes malades dans la population considérée (voir par exemple Klein2020, Yungster2020); Celles concernant &amp;ldquo;l&amp;rsquo;hypersensibilité&amp;rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &amp;ldquo;sains&amp;rdquo; (voir par exemple cet article).</description>
+    </item>
+    
+    <item>
+      <title>HCQ et al.</title>
+      <link>https://example.com/docs/covid/hcq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/covid/hcq/</guid>
+      <description>HCQ et al. #  Alors que la plupart des chercheurs spécialistes de ce domaine considèrent cette controverse comme éteinte - la majorité des études rigoureuses montrant une absence d&amp;rsquo;effet ou un effet délétère de l&amp;rsquo;HCQ sur l&amp;rsquo;évolution de la maladie1 -, elle fait encore beaucoup de bruit sur les réseaux sociaux, notamment via la diffusion de pages telles que: HCQmeta.
+Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroquine (HCQ) est efficace, du moins lorsqu&amp;rsquo;elle est utilisée &amp;ldquo;tôt&amp;rdquo; dans le traitement de la maladie.</description>
+    </item>
+    
+    <item>
+      <title>Lavage des masques</title>
+      <link>https://example.com/posts/lavage-masques/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lavage-masques/</guid>
+      <description>Quand l&amp;rsquo;académie de médecine publie des consignes étonnantes&amp;hellip; #  https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-est-il-vraiment-necessaire-de-laver-son-masque-en-tissu-a-60c_4099783.html?</description>
+    </item>
+    
+    <item>
+      <title>Real-type epidemiology</title>
+      <link>https://example.com/posts/expose-MG/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/expose-MG/</guid>
+      <description>Témoignage de Marius Gilbert #  https://www.youtube.com/watch?v=bk7dZrIMadk&amp;amp;t=480</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/guidetri/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/guidetri/hidden/</guid>
+      <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+  </channel>
+</rss>

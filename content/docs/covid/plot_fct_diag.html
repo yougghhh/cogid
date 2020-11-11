@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Plot function with sliders</title>
+  <script src="https://unpkg.com/mathjs@7.5.1/dist/math.min.js"></script>
+
+  <script src="https://cdn.plot.ly/plotly-1.35.2.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script> // from:  https://html.form.guide/html-form/html5-input-type-range/ (utilise jquery)
+$(function()
+{
+$('.slider').on('input change', function(){
+          $(this).next($('.slider_label')).html(this.value);
+        });
+      $('.slider_label').each(function(){
+          var value = $(this).prev().attr('value');
+          $(this).html(value);
+        });  
+  
+  
+})
+</script>
+
+  <style>
+
+    body {
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    padding: 30px; }
+
+    input {
+      padding: 3px;
+    }
+    input[type=range] {
+      padding-top: 0px;
+    }
+
+  </style>
+
+
+</head>
+<body>
+
+<!--  <form id="form">
+  <label for="par1">Enter parameter value 1:</label> 
+  <input type="text" id="par1" value="4" />
+  <label for="par2">Enter parameter value 2:</label>
+  <input type="text" id="par2" value="5" />
+  <input type="submit" value="Draw" />
+</form>
+cf. https://www.w3schools.com/tags/tag_label.asp -->
+
+
+<H2>Tests Diagnostics</h2>
+
+<p><label for="slid1">Sensibilité: </label>
+  <input type="range" id="slid1" class="slider" min="0" max="1" value="0.7" step="0.01">
+  <span  class="slider_label"></span></p>
+
+
+<p><label for="slid2">Spécificité: </label> 
+<input type="range" id="slid2"  class="slider" min="0" max="1" value="0.99" step="0.01">
+  <span  class="slider_label"></span></p>
+
+
+<div id="plot"></div>
+
+
+<script>
+  function draw() {
+    try {
+      
+    
+      const pslid1 = document.getElementById('slid1').value
+      const pslid2 = document.getElementById('slid2').value
+
+      const fctPFP = ' (1-specif) * (1-x)/ ((1-specif) * (1-x) + sensib * x )'
+      const fctPFN = ' (1-sensib) * x / ((1-sensib) * x + specif * (1-x) )'
+    
+      
+      const myfct1 = math.compile(fctPFP)
+      const myfct2 = math.compile(fctPFN)
+      
+      // evaluate the expression repeatedly for different values of x
+      const xValues = math.range(0, 1, 0.0005).toArray()
+
+      const yFP = xValues.map(function (xx) {
+        return myfct1.evaluate({x: xx,sensib:pslid1,specif:pslid2})
+      })
+      
+      const yFN = xValues.map(function (xx) {
+        return myfct2.evaluate({x: xx,sensib:pslid1,specif:pslid2})
+      })
+
+      // render the plot using plotly
+      var trace1 = {
+        x: xValues,
+        y: yFP,
+        type: 'scatter',
+        name: 'Proba. faux pos.'
+      }
+      var trace2 = {
+        x: xValues,
+        y: yFN,
+        type: 'scatter',
+        name: 'Proba. faux nég.'
+      }
+
+      var layout = {
+       width: 1000,
+       height: 500,
+       xaxis: {
+        title: 'Probabilité a priori d être malade',
+    
+       }
+      }
+
+      var data = [trace1,trace2]
+      Plotly.newPlot('plot', data,layout)
+      // thanks to https://plotly.com/javascript/line-charts/
+      
+    }
+    catch (err) {
+      console.error(err)
+      alert(err)
+    }
+  }
+
+  /* document.getElementById('form').onsubmit = function (event) {
+    event.preventDefault()
+    draw()
+  } */
+  document.getElementById('slid1').onchange = function (event) {
+    event.preventDefault()
+    draw()
+    
+  }
+  document.getElementById('slid2').onchange = function (event) {
+    event.preventDefault()
+    draw()
+    
+  }
+
+  draw() //dessine graphe initial
+
+  
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Introduction #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la &ldquo;fiabilité&rdquo; des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+ Celles attirant l&rsquo;attention sur le fait que la confiance qu&rsquo;on peut accorder au résultat d&rsquo;un test dépend de la prévalence de la maladie, çàd de la proportion de personnes malades dans la population considérée (voir par exemple Klein2020, Yungster2020); Celles concernant &ldquo;l&rsquo;hypersensibilité&rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &ldquo;sains&rdquo; (voir par exemple cet article).">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Fiabilité des tests" />
+<meta property="og:description" content="Introduction #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la &ldquo;fiabilité&rdquo; des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+ Celles attirant l&rsquo;attention sur le fait que la confiance qu&rsquo;on peut accorder au résultat d&rsquo;un test dépend de la prévalence de la maladie, çàd de la proportion de personnes malades dans la population considérée (voir par exemple Klein2020, Yungster2020); Celles concernant &ldquo;l&rsquo;hypersensibilité&rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &ldquo;sains&rdquo; (voir par exemple cet article)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/docs/covid/testdiag/" />
+
+<title>Fiabilité des tests | Cogid</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.f2e9eb3e6257836d986c3e050bc022cb5aa451963282411a44aeeaacabe0467f.css" integrity="sha256-8unrPmJXg22YbD4FC8Aiy1qkUZYygkEaRK7qrKvgRn8=">
+<script defer src="/en.search.min.79bf148a1fb0e75be84027929f6a014d3f87b76d1a6418e0f7cae05eb42074ef.js" integrity="sha256-eb8Uih&#43;w51voQCeSn2oBTT&#43;Ht20aZBjg98rgXrQgdO8="></script>
+
+<script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>Cogid</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://example.com/docs/guidetri/" class="">Guide général du tri</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-d8fb8c588ad405754f0091738b21dcf9" class="toggle" checked />
+    <label for="section-d8fb8c588ad405754f0091738b21dcf9" class="flex justify-between">
+      <a  class="">Covid et al.</a>
+      <span>▾</span>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://example.com/docs/covid/testdiag/" class=" active">Fiabilité des tests</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://example.com/docs/covid/hcq/" class="">HCQ et al.</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Blog
+      </a>
+  </li>
+  
+  <li>
+    <a href="https://github.com/yougghhh/faqnotfake" target="_blank" rel="noopener">
+        Github page
+      </a>
+  </li>
+  
+  <li>
+    <a href="https://themes.gohugo.io/hugo-book/" target="_blank" rel="noopener">
+        Hugo Book doc
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Fiabilité des tests</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#introduction"><strong>Introduction</strong></a></li>
+        <li><a href="#concepts-préalables"><strong>Concepts préalables</strong></a></li>
+        <li><a href="#exemples"><strong>Exemples</strong></a></li>
+        <li><a href="#formalisation-du-raisonnement"><strong>Formalisation du raisonnement</strong></a></li>
+        <li><a href="#conclusions"><strong>Conclusions</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h2 id="introduction">
+  <strong>Introduction</strong>
+  <a class="anchor" href="#introduction">#</a>
+</h2>
+<p>Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la &ldquo;fiabilité&rdquo; des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:</p>
+<ol>
+<li>Celles attirant l&rsquo;attention sur le fait que la confiance qu&rsquo;on peut accorder au résultat d&rsquo;un test dépend de la <em>prévalence</em> de la maladie, çàd de la proportion de personnes malades dans la population considérée (voir par exemple 
+  <a href="https://tracts.gallimard.fr/fr/products/tracts-de-crise-n-25-je-ne-suis-pas-medecin-mais">Klein2020</a>, 
+  <a href="https://medium.com/@niryungster/where-you-live-affects-what-your-covid-19-test-means-a9cd798fcd10">Yungster2020</a>);</li>
+<li>Celles concernant &ldquo;l&rsquo;hypersensibilité&rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &ldquo;sains&rdquo; (voir par exemple 
+  <a href="https://www.lemonde.fr/les-decodeurs/article/2020/09/09/covid-19-l-hypersensibilite-des-tests-pcr-entre-intox-et-vrai-debat_6051528_4355770.html">cet article</a>).</li>
+</ol>
+<p>Cette page fait le point sur la première problématique. Elle est en grande partie basée sur cet 
+  <a href="https://www.zeterinaires.fr/nofakemed/2020/04/29/tests-diagnostiques-comment-pas-fiables/">excellent article</a>, mais explicite également les raisonnements &ldquo;bayésiens&rdquo; qui sous-tendent les résultats mentionnés, afin qu&rsquo;elle puisse être utilisée dans un cadre pédagogique comme exemple d&rsquo;application du calcul des probabilités.</p>
+<p>La seconde polémique est abordée dans un article distinct.</p>
+<h2 id="concepts-préalables">
+  <strong>Concepts préalables</strong>
+  <a class="anchor" href="#concepts-pr%c3%a9alables">#</a>
+</h2>
+<p>Tout d&rsquo;abord, il faut clarifier ce qu&rsquo;on entend par &ldquo;fiabilité&rdquo; d&rsquo;un test diagnostic. En réalité, cette notion n&rsquo;est pas quantifiable par un seul nombre, mais repose sur deux caractéristiques complémentaires d&rsquo;un test diagnostic:</p>
+<ul>
+<li>la <em>sensibilité</em>, c&rsquo;est-à-dire la capacité du test à détecter la maladie lorsqu&rsquo;elle est présente (ne pas &ldquo;passer à côté&rdquo;). La sensibilité est liée à la notion de <em>faux négatif</em>: plus la sensibilité est grande, moins il y a de faux négatifs, càd de malades non détectés par le test (&ldquo;l&rsquo;alarme sonne toujours&rdquo; quand l&rsquo;individu est malade).</li>
+<li>la <em>spécificité</em>, c&rsquo;est-à-dire la capacité du test à ne détecter <em>que</em> cette maladie (ne pas la confondre avec une autre affection).  La spécificité est liée à la notion de <em>faux positif</em>: plus la spécificité est grande,  moins il y a de faux positifs, càd d&rsquo;individus sains identifiés erronnément comme malades (&ldquo;l&rsquo;alarme ne sonne que&rdquo; lorsque l&rsquo;individu est malade).</li>
+</ul>
+<p>En utilisant le langage des probabilités, on peut résumer ces informations de la manière suivante:
+\begin{align*}
+\text{Sensibilité}&amp;=\mathbb{P}(\oplus\vert malade) = 1- \mathbb{P}(\ominus \vert malade)   \\<br>
+\text{Spécificité}&amp;=\mathbb{P}(\ominus\vert sain) = 1- \mathbb{P}(\oplus \vert sain)
+\end{align*}
+où la notation  \(\mathbb{P}(A \vert B)\) représente la probabilité de l&rsquo;événément A étant donné l&rsquo;événement B (on parle de _probabilité conditionnelle_). Le symbole \(\oplus\) signifie que le résultat du test est positif et le symbole \(\ominus\) signifie que le résultat du test est négatif.</p>
+<h2 id="exemples">
+  <strong>Exemples</strong>
+  <a class="anchor" href="#exemples">#</a>
+</h2>
+<p>Considérons le cas d&rsquo;un test diagnostic dont la sensibilité est de 70% et la spécificité de 99%, qui sont les ordres de grandeur des valeurs pour les tests PCR utilisés pour le diagnostic du covid-19 (voir par exemple [ref]).</p>
+<p>Etant donné ces valeurs et les définitions ci-dessus, on est généralement enclin à penser que</p>
+<ul>
+<li>si le résultat du test est positif, on a 70% de chances d&rsquo;avoir effectivement la maladie, et 30% de chances d&rsquo;ête un ``faux positif'';</li>
+<li>si le résultat du test est négatif, on a 99% de chances de n&rsquo;être effectivement pas malade, et 1% de chances d&rsquo;être un ``faux négatif''.</li>
+</ul>
+<p>En réalité, ce raisonnement est incorrect, comme on peut le comprendre facilement sur l&rsquo;exemple chiffré que voici.</p>
+<p>Supposons que la prévalence de la maladie dans la population générale est de 1%, et que l&rsquo;individu est testé dans le cadre d&rsquo;un dépistage massif, çàd sans suspicion particulière qu&rsquo;il soit malade. Supposons également que la population en question compte 10000 individus (ce nombre n&rsquo;a pas d&rsquo;importance, il est choisi pour la commodité des calculs). Dans cette population, il y a donc 10000/100=100 individus malades. Etant donné la sensibilité du test, 70 des 100 individus malades seront testés positifs et 30 d&rsquo;entre eux seront testés négatifs. Avec une spécifité de 99%, on peut aussi déduire que parmi les 9900 individus non-malades, il y aura 0,99 x 9900 = 9801 individus seront testés négatifs et 0,01 x 9900 = 99 individus qui seront testés positifs.</p>
+<p>Examinons tout d&rsquo;abord ce que cela implique pour la probabilité d&rsquo;être malade lorsqu&rsquo;on est testé positif. Pour calculer cette probabilité, il faut rapporter le nombre d&rsquo;individus malades et testés positifs (70) au nombre total d&rsquo;individus testés positifs (70+99). Ainsi, la probabilité d&rsquo;être malade en étant testé positif (qu&rsquo;on appelle la <em>valeur prédictive positive</em>, abbréviée VPP) vaut 70/(169)=0,41, càd 41% et non 70% (valeur de la sensibilité). Il y a donc réciproquement 59% (et non 30%) de faux positifs.</p>
+<p>Les articles/vidéos à &ldquo;sensation&rdquo; s&rsquo;arrêtent souvent à ce résultat et en concluent qu&rsquo;un tel test est inutile, voire contre-productif: en effet, dans le cas d&rsquo;une maladie contagieuse comme le covid-19, il nous conduirait à mettre en quarantaine beaucoup trop d&rsquo;individus en réalité non porteurs de la maladie.
+Cette conclusion est trop hâtive pour plusieurs raisons.</p>
+<p>Tout d&rsquo;abord, il faut également examiner la probabilité d&rsquo;être malade lorsqu&rsquo;on est testé négatif. Le nombre d&rsquo;invididus malades et négatifs étant égal à 30, et le nombre total d&rsquo;individus testés négatifs étant 30+9801, on obtient une probabilité de 30/9831= 0,003. Ainsi, la proportion de faux négatifs est extrêmement faible: 0,3% (et la valeur prédictive négative, ou VPN, est de 99,7%). Autrement dit, le risque de considérer comme sains des individus en réalité infectés (beaucoup plus grave que le risque de faux positif, dans le cas d&rsquo;une maladie contagieuse)  est quasi nul.</p>
+<p>Ensuite, et c&rsquo;est là le plus important, ces conclusions sont considérablement différentes si la prévalence de la maladie dans la population est plus grande, ou si le test n&rsquo;est pas effectué dans le cadre d&rsquo;un dépistage massif. Par exemple, si on refait le raisonnement précédent en supposant une prévalence de 5%, on se rend compte que la VPP passe de 0,41 à 0,79 (elle devient donc supérieure à la sensibilité, qui vaut 0,7). Mais surtout, ce raisonnement ne tient pas compte du fait que la plupart des tests diagnostics ne sont pas effectués &ldquo;au hasard&rdquo; (c&rsquo;est le cas seulement pour les campagnes de dépistage massif), mais sur base d&rsquo;une suspicion préalable de de contamination (soit parce que l&rsquo;individu présente des symptômes, soit parce qu&rsquo;il a été en contact avec une personne contaminée). Or, le calcul effectué sur base de la prévalence de la maladie dans la population générale n&rsquo;est pas valable dans ce cas. La manière la plus commode de calculer les probabilités dans le cas général est présenté ci-dessous.</p>
+<h2 id="formalisation-du-raisonnement">
+  <strong>Formalisation du raisonnement</strong>
+  <a class="anchor" href="#formalisation-du-raisonnement">#</a>
+</h2>
+<p>On peut montrer que le raisonnement informel présenté dans la section précédente est équivalent à appliquer la <em>formule de Bayes</em>:</p>
+<p>$$\mathbb{P}(A \vert B)= \frac{\mathbb{P}(\text{A et B})} {\mathbb{P}(B) } = \frac{\mathbb{P}(B \vert A)\mathbb{P}(A)} {\mathbb{P}(B) } $$</p>
+<p>(pour une présentation intuitive de ce résultat, voir par exemple
+
+  <a href="https://youtu.be/X0gYOzxua64?t=33">cette vidéo</a> en français et 
+  <a href="https://www.youtube.com/watch?v=HZGCoVF3YvM">cette vidéo</a> en anglais).</p>
+<p>Dans le cas des tests diagnostics considéré ici, on a donc notamment:</p>
+<p>\begin{align*}
+\mathbb{P}(sain \vert \oplus) &amp; =  \frac{ \mathbb{P}(\oplus \text{ et sain})} {\mathbb{P}(\oplus) } = \frac{\mathbb{P}(\oplus \vert sain)\mathbb{P}(sain)} {\mathbb{P}(\oplus) }  \\<br>
+\mathbb{P}(malade\vert \ominus) &amp; = \frac{\mathbb{P}(\ominus \text{ et malade})} {\mathbb{P}(\ominus) }= \frac{\mathbb{P}(\ominus \vert malade)\mathbb{P}(malade)} {\mathbb{P}(\ominus) }<br>
+\end{align*}
+qui donnent, respectivement, les probabilités de faux positif et de faux négatif.
+En utilisant les propriétés que
+$$ \mathbb{P}(\oplus) = \mathbb{P}(\oplus \vert sain)\mathbb{P}(sain) + \mathbb{P}(\oplus \vert malade)\mathbb{P}(malade), $$
+$$ \mathbb{P}(\ominus) = \mathbb{P}(\ominus \vert malade)\mathbb{P}(malade) + \mathbb{P}(\ominus \vert sain)\mathbb{P}(sain),$$
+$$\mathbb{P}(sain)=1 - \mathbb{P}(malade)$$</p>
+<p>et l&rsquo;abbréviation $P_m=\mathbb{P}(malade)$, on peut encore écrire:</p>
+<p>\begin{align*}
+P_{pFP} &amp; = \frac{(1-Sp);(1 -P_m )} {(1-Sp);(1 -P_m ) + Se;P_m } = 1 - \text{VPP}\\<br>
+P_{pFN} &amp; = \frac{(1-Se);P_m} {(1-Se);P_m+ Sp;(1 -P_m )}<br>
+= 1 - \text{VPN}
+\end{align*}</p>
+<p>où $Se$ est la sensibilité et $Sp$ la spécificité du test telles que définies plus haut.</p>
+<p>On peut vérifier que ces formules permettent de retrouver les résultats obtenus dans la section précédente (sans devoir spécifier la taille de la population) à condition de remplacer
+\(\mathbb{P}(malade)\) par la prévalence de la maladie dans la population.
+Cependant, cette probabilité <em>a priori</em> d&rsquo;être malade, \(\mathbb{P}(malade)\), n&rsquo;est égale à la prévalence de la maladie que dans le cas d&rsquo;un dépistage massif, où l&rsquo;individu est testé sans indication particulière qu&rsquo;il soit infecté. Lorsque l&rsquo;individu est testé sur base d&rsquo;une suspicion de contamination, il faut remplacer la prévalence par la probabilité estimée <em>a priori</em> qu&rsquo;il a été contaminé. Bien sûr, cette probabilité n&rsquo;est pas facile à estimer - elle va dépendre des informations à disposition du médecin, et peut-être aussi de son expérience préalable de la maladie (identification correcte des symptômes,&hellip;). C&rsquo;est pourquoi on dit parfois que l&rsquo;approche bayésienne du calcul des probabilités est &ldquo;subjective&rdquo;. L&rsquo;estimation dépend en tout cas crucialement des informations à disposition pour effectuer les calculs.</p>
+<p>Pour fixer les idées, si on estime à 50% la probabilité a priori de l&rsquo;individu d&rsquo;être malade, avec les mêmes valeurs de sensibilité et de spécificité que dans la section précédente, la probabilité de faux positif  \(\mathbb{P}(sain\vert \oplus) \)
+ne vaut plus que 1%, tandis que la probabilité de faux négatif
+\(\mathbb{P}(malade \vert \ominus) \)  vaut alors 23%.</p>
+<p>Le graphique 
+  <a href="/docs/covid/plot_fct_diag.html">ici</a> illustre cette dépendance très forte des probabilités de faux positif et faux négatif à la probabilité a priori d&rsquo;être malade.</p>
+<h2 id="conclusions">
+  <strong>Conclusions</strong>
+  <a class="anchor" href="#conclusions">#</a>
+</h2>
+<ul>
+<li>Le dépistage massif d&rsquo;une maladie dans une population ne peut se faire qu&rsquo;avec des tests de sensibilité et de spécificité très grandes. Le même raisonnement s&rsquo;applique à l&rsquo;évaluation du niveau d&rsquo;immunité au sein d&rsquo;une population. C&rsquo;est pour cette raison qu&rsquo;il est actuellement inutile d&rsquo;effectuer des tests sérologiques à large échelle pour l&rsquo;immunité vis-à-vis du covid-19: la sensibilité et la spécificité des tests disponibles actuellement est insuffisante pour cela \citep{zete0420}.</li>
+<li>Si notre intuition est mise à mal par les raisonnements bayésiens lorsque les probabilités a priori des événements sont faibles, ces probabilités sont en réalité importantes en pratique dans le cas de tests diagnostics. En effet, ce type de test est rarement effectué ``au hasard'', mais sur base d&rsquo;un faisceau d&rsquo;indications <em>a priori</em> que l&rsquo;individu est porteur de la maladie. Il n&rsquo;y a donc souvent pas lieu en pratique de s&rsquo;inquiéter de ces résultats contre-intuitifs&hellip; et de nombreux vulgarisateurs feraient mieux de pousser le raisonnement jusqu&rsquo;au bout plutôt que d&rsquo;alerter la population inutilement.</li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#introduction"><strong>Introduction</strong></a></li>
+        <li><a href="#concepts-préalables"><strong>Concepts préalables</strong></a></li>
+        <li><a href="#exemples"><strong>Exemples</strong></a></li>
+        <li><a href="#formalisation-du-raisonnement"><strong>Formalisation du raisonnement</strong></a></li>
+        <li><a href="#conclusions"><strong>Conclusions</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

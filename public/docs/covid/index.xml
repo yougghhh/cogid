@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covid et al. on Cogid</title>
+    <link>https://example.com/docs/covid/</link>
+    <description>Recent content in Covid et al. on Cogid</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/docs/covid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiabilité des tests</title>
+      <link>https://example.com/docs/covid/testdiag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/covid/testdiag/</guid>
+      <description>Introduction #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la &amp;ldquo;fiabilité&amp;rdquo; des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+ Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, çàd de la proportion de personnes malades dans la population considérée (voir par exemple Klein2020, Yungster2020); Celles concernant &amp;ldquo;l&amp;rsquo;hypersensibilité&amp;rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &amp;ldquo;sains&amp;rdquo; (voir par exemple cet article).</description>
+    </item>
+    
+    <item>
+      <title>HCQ et al.</title>
+      <link>https://example.com/docs/covid/hcq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/covid/hcq/</guid>
+      <description>HCQ et al. #  Alors que la plupart des chercheurs spécialistes de ce domaine considèrent cette controverse comme éteinte - la majorité des études rigoureuses montrant une absence d&amp;rsquo;effet ou un effet délétère de l&amp;rsquo;HCQ sur l&amp;rsquo;évolution de la maladie1 -, elle fait encore beaucoup de bruit sur les réseaux sociaux, notamment via la diffusion de pages telles que: HCQmeta.
+Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroquine (HCQ) est efficace, du moins lorsqu&amp;rsquo;elle est utilisée &amp;ldquo;tôt&amp;rdquo; dans le traitement de la maladie.</description>
+    </item>
+    
+  </channel>
+</rss>
