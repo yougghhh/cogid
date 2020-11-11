@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cogid</title>
-    <link>https://example.com/tags/</link>
+    <link>https://cogid.netlify.app/tags/</link>
     <description>Recent content in Tags on Cogid</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cogid.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>covid</title>
-      <link>https://example.com/tags/covid/</link>
+      <link>https://cogid.netlify.app/tags/covid/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/covid/</guid>
+      <guid>https://cogid.netlify.app/tags/covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marius Gilbert</title>
-      <link>https://example.com/tags/Marius-Gilbert/</link>
+      <link>https://cogid.netlify.app/tags/Marius-Gilbert/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/Marius-Gilbert/</guid>
+      <guid>https://cogid.netlify.app/tags/Marius-Gilbert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>https://example.com/tags/video/</link>
+      <link>https://cogid.netlify.app/tags/video/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/video/</guid>
+      <guid>https://cogid.netlify.app/tags/video/</guid>
       <description></description>
     </item>
     
