@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://cogid.netlify.app'
-title = 'Cogid'
+title = 'Doutils'
 theme = "hugo-book"
 
 # Book configuration
@@ -27,13 +27,8 @@ enableGitInfo = true
 # [[menu.before]]
 [[menu.after]]
   name = "Github page"
-  url = "https://github.com/yougghhh/faqnotfake"
+  url = "https://github.com/yougghhh/cogid"
   weight = 10
-
-[[menu.after]]
-  name = "Hugo Book doc"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.

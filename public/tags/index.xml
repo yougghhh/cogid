@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cogid</title>
+    <title>Tags on Doutils</title>
     <link>https://cogid.netlify.app/tags/</link>
-    <description>Recent content in Tags on Cogid</description>
+    <description>Recent content in Tags on Doutils</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cogid.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>

@@ -4,7 +4,7 @@ title: Guide général du tri
 weight: 1
 ---
 
-## Petit guide du tri des... "infomations"
+## Petit guide du tri
 
 #### 1. Se demander pourquoi on fait confiance à une information
 
