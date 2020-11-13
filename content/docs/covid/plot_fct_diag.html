@@ -29,10 +29,11 @@ $('.slider').on('input change', function(){
     font-family: Helvetica, arial, sans-serif;
     font-size: 14px;
     line-height: 1.6;
+    padding: 30px; 
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: white;
-    padding: 30px; }
+    }
 
     input {
       padding: 3px;
@@ -57,8 +58,14 @@ $('.slider').on('input change', function(){
 cf. https://www.w3schools.com/tags/tag_label.asp -->
 
 
-<H2>Tests Diagnostics</h2>
+<H2>Fiabilité des tests diagnostics</h2>
+  <p>Le graphique ci-dessous montre l'évolution de la fiabilité d'un test diagnostic en fonction de la probabilité pré-test
+     de la maladie. La probabilité de faux négatif (resp. faux positif) pré-test est égale à 1 moins la sensibilité 
+     (resp. spécificité).
+    Cliquer sur "Autoscale" pour afficher l'ensemble des données, et sur "Reset axes" pour restaurer la vue initiale
+     (menu en haut à droite s'affichant au passage de la souris).</p>
 
+<br>
 <p><label for="slid1">Sensibilité: </label>
   <input type="range" id="slid1" class="slider" min="0" max="1" value="0.7" step="0.01">
   <span  class="slider_label"></span></p>
@@ -68,8 +75,12 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
 <input type="range" id="slid2"  class="slider" min="0" max="1" value="0.99" step="0.01">
   <span  class="slider_label"></span></p>
 
-
-<div id="plot"></div>
+<!--  affichage des graphiques -->
+<div style="width: 100%; overflow: hidden;">
+    <div style=" float: left;" id="plotz">  </div>
+  <!--   <div style=" float: right;" id="plot">  </div> -->
+    <!-- <div style="margin-left: 520px;" id="plot">  </div> -->
+</div>
 
 
 <script>
@@ -97,33 +108,106 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
       const yFN = xValues.map(function (xx) {
         return myfct2.evaluate({x: xx,sensib:pslid1,specif:pslid2})
       })
+ 
+      var VPP = yFP.map(oneminusy) // cf. https://www.w3schools.com/js/js_array_iteration.asp
+      var VPN = yFN.map(oneminusy)
+
+      function oneminusy(num) {
+       return 1- num;
+      }
+      
+      /* var Ppm= [];
+      for (let i = 0; i < yFN.length; i++) {
+       Ppm[i]=yFN[i]+1-yFP[i]
+      } */
 
       // render the plot using plotly
       var trace1 = {
         x: xValues,
         y: yFP,
         type: 'scatter',
-        name: 'Proba. faux pos.'
+        name: 'P(faux +) post-test'
       }
       var trace2 = {
         x: xValues,
         y: yFN,
         type: 'scatter',
-        name: 'Proba. faux nég.'
+        name: 'P(faux -) post-test'
+      }
+
+      var trace3 = {
+        x: [0,1],
+        y: [1-pslid1,1-pslid1],
+        type: 'scatter',
+        name: 'P(faux -) pre-test',
+        line: {
+        dash: 'dot',
+        width: 2,
+        color: 'orange',
+        }
+      }
+
+      var trace4 = {
+        x: [0,1],
+        y: [1-pslid2,1-pslid2],
+        type: 'scatter',
+        name: 'P(faux +) pre-test',
+        line: {
+        dash: 'dot',
+        width: 2,
+        color: 'blue',
+        }
+      }
+
+      
+
+      var trace5 = {
+        x: xValues,
+        y: VPP,
+        type: 'scatter',
+        name: 'VPP'
       }
 
       var layout = {
-       width: 1000,
+       width: 700,
        height: 500,
        xaxis: {
-        title: 'Probabilité a priori d être malade',
-    
+        title: 'Probabilité pre-test d\'être malade',
        }
       }
 
-      var data = [trace1,trace2]
-      Plotly.newPlot('plot', data,layout)
+      var layoutz = {
+       width: 800,
+       height: 500,
+       xaxis: {
+        title: 'Probabilité pre-test d\'être malade',
+        range: [0.0, 0.25],
+        //autorange: false
+       },
+       yaxis: {
+        range: [0., 0.6],
+        //autorange: false,
+        hoverformat: '.2r',
+        title: 'Probabilité post-test',
+        }
+      }
+
+      //var config = {responsive: true}
+
+      var data = [trace1,trace2,trace3,trace4]
+
+      //Plotly.newPlot('plot', data,layout)
+      Plotly.newPlot('plotz', data,layoutz)
       // thanks to https://plotly.com/javascript/line-charts/
+
+      //Plotly.newPlot('myDiv', data, layout, {staticPlot: true});
+
+
+     /*for (let i = 0; i < 10; i++) {
+       document.write('FP=',yFP[i],'  ') 
+       document.write('VPP=',VPP[i],'  ') 
+       document.write('Ppm=',VPP[i],"<br>")
+      } */
       
     }
     catch (err) {
