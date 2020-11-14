@@ -1,5 +1,6 @@
 ---
 title: HCQ et al.
+bookHidden: true
 weight: 4
 ---
 

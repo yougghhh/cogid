@@ -1,5 +1,5 @@
 ---
-title: About #ce qui apparaît sur l'onglet
+title: A propos #ce qui apparaît sur l'onglet
 type: docs # par opposition à blog posts?
 
 ---

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Doutils</title>
+    <title>A propos on Doutils</title>
     <link>https://cogid.netlify.app/</link>
-    <description>Recent content in About on Doutils</description>
+    <description>Recent content in A propos on Doutils</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://cogid.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F.A.Q.</title>
+      <link>https://cogid.netlify.app/docs/faq/faq_draft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/faq/faq_draft/</guid>
+      <description>Les tests diagnostics sont-ils fiables? Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la fiabilité des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+ Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, c&amp;rsquo;est-à-dire de la proportion de personnes malades dans la population à laquelle on appartient (voir par exemple cet article d&amp;rsquo;Etienne Klein, ou ce post de blog (en anglais), parus tous deux du début de la crise); Celles concernant &amp;ldquo;l&amp;rsquo;hypersensibilité&amp;rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &amp;ldquo;sains&amp;rdquo; (voir par exemple cet article récent).</description>
+    </item>
+    
     <item>
       <title>Fiabilité des tests</title>
       <link>https://cogid.netlify.app/docs/covid/testdiag/</link>
@@ -23,24 +33,6 @@
       <guid>https://cogid.netlify.app/docs/covid/hcq/</guid>
       <description>HCQ et al. #  Alors que la plupart des chercheurs spécialistes de ce domaine considèrent cette controverse comme éteinte - la majorité des études rigoureuses montrant une absence d&amp;rsquo;effet ou un effet délétère de l&amp;rsquo;HCQ sur l&amp;rsquo;évolution de la maladie1 -, elle fait encore beaucoup de bruit sur les réseaux sociaux, notamment via la diffusion de pages telles que: HCQmeta.
 Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroquine (HCQ) est efficace, du moins lorsqu&amp;rsquo;elle est utilisée &amp;ldquo;tôt&amp;rdquo; dans le traitement de la maladie.</description>
-    </item>
-    
-    <item>
-      <title>Lavage des masques</title>
-      <link>https://cogid.netlify.app/posts/lavage-masques/</link>
-      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cogid.netlify.app/posts/lavage-masques/</guid>
-      <description>Quand l&amp;rsquo;académie de médecine publie des consignes étonnantes&amp;hellip; #  https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-est-il-vraiment-necessaire-de-laver-son-masque-en-tissu-a-60c_4099783.html?</description>
-    </item>
-    
-    <item>
-      <title>Real-type epidemiology</title>
-      <link>https://cogid.netlify.app/posts/expose-MG/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cogid.netlify.app/posts/expose-MG/</guid>
-      <description>Témoignage de Marius Gilbert #  https://www.youtube.com/watch?v=bk7dZrIMadk&amp;amp;t=480</description>
     </item>
     
     <item>
