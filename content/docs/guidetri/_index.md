@@ -9,8 +9,7 @@ weight: 1
 #### 1. Se demander pourquoi on fait confiance à une information
 
 Est-ce parce qu'elle est réellement plausible... ou parce qu'on a très envie d'y croire? A-t-on porté la même attention à des publications tirant des conclusions opposées, ou à tout le moins plus nuancées?
-Nous avons tous naturellement tendance à porter plus d'attention aux éléments qui confortent nos opinions a priori - [cette courte vidéo](https://www.youtube.com/watch?v=OkLO8PkYzsI) l'illustre de manière frappante.
-C'est ce que certains appellent faire du "raisonnement motivé" (une traduction littérale de l'anglais "motivated reasoning", qu'il serait plus approprié de remplacer par "raisonnement intéressé").
+Nous avons tous naturellement tendance à porter plus d'attention aux éléments qui confortent nos opinions a priori - [cette courte vidéo](https://www.youtube.com/watch?v=OkLO8PkYzsI) l'illustre de manière frappante. C'est ce qu'on appelle souvent faire du "raisonnement motivé"[^raismot].
 
 #### 2. Se demander si la source de l'information est fiable
 
@@ -32,6 +31,8 @@ A la deuxième objection, on peut répondre... que cela dépend précisément de
 
 Prenons l'exemple hyper-médiatisé de la controverse sur l'efficacité de l'hydroxychloroquine (HCQ) comme traitement du covid-19. Le consensus scientifique actuel est que ce traitement n'a pas d'effet significatif lorsqu'il est administré seul, et un effet délétère lorsqu'il est associé à l'azithromycine (AZ) [^hcqconsensus].
 Cependant, certains affirment que ce consensus n'est pas fiable, car l'industrie pharmaceutique ("Big Pharma") exercerait des pressions pour dissimuler l'efficacité de ce médicament peu coûteux. Elle aurait en effet plus d'intérêt à promouvoir l'élaboration d'un onéreux vaccin. Mais est-il réellement plausible que Big Pharma ait plus de poids sur les chercheurs académiques, les journaux scientifiques, les représentants politiques,... que tous les autres acteurs économiques qui pâtissent énormément de la récession engendrée par la pandémie? N'y a-t-il pas autrement plus d'intérêts financiers à ce que la crise sanitaire prenne fin au plus vite? Pourquoi aurait-on par ailleurs [publié des résultats](https://www.recoverytrial.net/news/low-cost-dexamethasone-reduces-death-by-up-to-one-third-in-hospitalised-patients-with-severe-respiratory-complications-of-covid-19?ref=image) montrant l'efficacité de la dexaméthasone à réduire la mortalité de patients à un stade avancé de la maladie, alors qu'il s'agit également d'un médicament peu onéreux?
+
+[^raismot]: Une traduction littérale de l'anglais "motivated reasoning", qu'il serait certainement plus approprié de remplacer par "raisonnement intéressé".
 
 
 [^jser]: https://www.sciencesetavenir.fr/sante/covid-19-clarifications-sur-la-pharmacocinetique-de-l-hydroxychloroquine_143879  

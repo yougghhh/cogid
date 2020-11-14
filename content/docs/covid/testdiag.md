@@ -1,6 +1,7 @@
 ---
 title: Fiabilité des tests
 weight: 3
+bookhidden: true
 ---
 
 

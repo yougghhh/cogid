@@ -3,6 +3,9 @@ title: F.A.Q.
 weight: 2
 ---
 
+## Foire aux questions
+
+
 <details id="faqtest">
   <summary>Les tests diagnostics sont-ils fiables?</summary>
   
