@@ -6,10 +6,12 @@ weight: 1
 
 ## Petit guide du tri des "informations"
 
+!!Version beta!!
+
 #### 1. Se demander pourquoi on fait confiance à une information
 
 Est-ce parce qu'elle est réellement plausible... ou parce qu'on a très envie d'y croire? A-t-on porté la même attention à des publications tirant des conclusions opposées, ou à tout le moins plus nuancées?
-Nous avons tous naturellement tendance à porter plus d'attention aux éléments qui confortent nos opinions a priori - [cette courte vidéo](https://www.youtube.com/watch?v=OkLO8PkYzsI) l'illustre de manière frappante. C'est ce qu'on appelle souvent faire du "raisonnement motivé"[^raismot].
+Nous avons tous naturellement tendance à porter plus d'attention aux éléments qui confortent nos opinions a priori - [cette courte vidéo](https://www.youtube.com/watch?v=OkLO8PkYzsI) l'illustre de manière frappante. C'est ce qu'on appelle faire du "raisonnement motivé"[^raismot].
 
 #### 2. Se demander si la source de l'information est fiable
 
