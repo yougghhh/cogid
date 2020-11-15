@@ -1,1 +1,1 @@
-# fichier créé par Rstudio
+# sources du site cogid sur netlify
