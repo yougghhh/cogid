@@ -17,7 +17,7 @@ Nous avons, toutes et tous, naturellement tendance à porter plus d'attention au
 
 Provient-elle d'un journal "sérieux", qui fournit des références à ses affirmations[^jser], ou d'un tabloid qui se base sur l'interview d'un professeur sulfureux[^jtab]? Est-ce le blog d'un citoyen précisant "d'où il parle"[^qdma], ou une page dont les auteurs cachent leur identité[^hcqmeta]?
 
-### **3. Se demander si la thèse soutenue est plausible**
+### **3. Se demander si la thèse défendue est plausible**
 
 Certains ne seront pas convaincus par l'argument précédent et objecteront:
    
