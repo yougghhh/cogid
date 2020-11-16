@@ -15,7 +15,7 @@ weight: 3
 
 ### **Réaction au point 1**
 
-Une mise en perspective du rôle de la prévalence d'une maladie dans l'évaluation correcte des résultats d'un test diagnostic est proposée dans [cet article](../../diagtest.pdf). Il y est notamment expliqué qu'il n'y a pas lieu de se préoccuper de la prévalence dans la population générale dans le cas du covid-19. En effet, la plupart des individus sont testés sur base d'une suspicion préalable de contamination (que ce soit en raison de symptômes spécifiques, ou d'un contact rapproché avec une personne infectée). Or, la prévalence d'une maladie dans la population générale n'est pertinente pour l'interprétation d'un test diagnostic que dans le cas d'un dépistage massif (voir aussi [ici](https://www.zeterinaires.fr/nofakemed/2020/04/29/tests-diagnostiques-comment-pas-fiables/)).
+Une mise en perspective du rôle de la prévalence d'une maladie dans l'évaluation correcte des résultats d'un test diagnostic est réalisée dans [ce document](../../diagtest.pdf). Il y est notamment expliqué qu'il n'est souvent pas pertinent de considérer la prévalence de la maladie dans la population générale pour calculer les probabilités (post-test) de "faux positif", "faux négatif",... En effet, les individus sont le plus souvent testés sur base d'une suspicion préalable de contamination (que ce soit en raison de symptômes spécifiques, ou d'un contact rapproché avec une personne infectée dans le cas d'une maladie contagieuse). Or, la prévalence d'une maladie dans la population générale n'est pertinente pour l'interprétation d'un test diagnostic que dans le cadre d'un dépistage massif (voir aussi [cet article](https://www.zeterinaires.fr/nofakemed/2020/04/29/tests-diagnostiques-comment-pas-fiables/)).
  
 
 ### **Réaction au point 2** 
