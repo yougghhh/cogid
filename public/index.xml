@@ -21,8 +21,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cogid.netlify.app/docs/covid/testdiag/</guid>
-      <description>Introduction #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la &amp;ldquo;fiabilité&amp;rdquo; des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
- Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, çàd de la proportion de personnes malades dans la population considérée (voir par exemple Klein2020, Yungster2020); Celles concernant &amp;ldquo;l&amp;rsquo;hypersensibilité&amp;rdquo; des tests PCR, qui conduirait à considérer comme contagieux des individus &amp;ldquo;sains&amp;rdquo; (voir par exemple cet article).</description>
+      <description>Les tests diagnostiques sont-ils fiables? #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la fiabilité des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+  Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, c&amp;rsquo;est-à-dire de la proportion de personnes malades dans la population à laquelle on appartient (voir par exemple cet article d&amp;rsquo;Etienne Klein, ou ce post de blog (en anglais), parus tous deux au début de la crise sanitaire);</description>
     </item>
     
     <item>
@@ -33,6 +33,42 @@
       <guid>https://cogid.netlify.app/docs/covid/hcq/</guid>
       <description>HCQ et al. #  Alors que la plupart des chercheurs spécialistes de ce domaine considèrent cette controverse comme éteinte - la majorité des études rigoureuses montrant une absence d&amp;rsquo;effet ou un effet délétère de l&amp;rsquo;HCQ sur l&amp;rsquo;évolution de la maladie1 -, elle fait encore beaucoup de bruit sur les réseaux sociaux, notamment via la diffusion de pages telles que: HCQmeta.
 Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroquine (HCQ) est efficace, du moins lorsqu&amp;rsquo;elle est utilisée &amp;ldquo;tôt&amp;rdquo; dans le traitement de la maladie.</description>
+    </item>
+    
+    <item>
+      <title>Les &#34;experts&#34;</title>
+      <link>https://cogid.netlify.app/docs/covid/experts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/experts/</guid>
+      <description>A quels &amp;ldquo;experts&amp;rdquo; peut-on faire confiance? #  Il est pour le moins décontenançant de voir des scientifiques, à première vue tous &amp;ldquo;experts&amp;rdquo; d&amp;rsquo;un domaine, tenir des propos diamétralement opposés dans la presse. Mais lorsqu&amp;rsquo;on y regarde de plus près, on se rend souvent compte que certains parlent en dehors de leur domaine de compétence, et que si on se restreint aux spécialistes d&amp;rsquo;une discipline, leurs propos sont alors souvent convergents.</description>
+    </item>
+    
+    <item>
+      <title>Remèdes</title>
+      <link>https://cogid.netlify.app/docs/covid/remedes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/remedes/</guid>
+      <description>La saga HCQ #  La controverse au sujet de l&amp;rsquo;efficacité de l&amp;rsquo;hydroxychloroquine (HCQ) comme traitement du covid-19 n&amp;rsquo;aura échappé à personne. Si, au vu des études publiées à l&amp;rsquo;heure actuelle, la plupart des spécialistes concluent à son inefficacité [ref lettre CMI Paul], D. Raoult et ses collègues continue à contester la validité des études amenant à ces conclusions [ref lettre CMI Raoult]. Par ailleurs, quelques pages web d&amp;rsquo;auteurs non identifiés affirment (en s&amp;rsquo;appuyant en apparence sur de nombreuses études) que l&amp;rsquo;HCQ est bien un remède efficace [ref page HCQmeta,&amp;hellip;].</description>
+    </item>
+    
+    <item>
+      <title>Remèdes</title>
+      <link>https://cogid.netlify.app/docs/covid/remedes_draft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/remedes_draft/</guid>
+      <description>La controverse au sujet de l&amp;rsquo;efficacité de l&amp;rsquo;hydroxychloroquine (HCQ) comme traitement du covid-19 n&amp;rsquo;aura échappé à personne. Si, au vu des études publiées à l&amp;rsquo;heure actuelle, la plupart des spécialistes concluent à son inefficacité [ref lettre CMI Paul], D. Raoult et ses collègues continue à contester la validité des études amenant à ces conclusions [ref lettre CMI Raoult]. Par ailleurs, quelques pages web dont les auteurs dissimulent leur identité, affirment (en se basant en apparence sur de multiples études) que l&amp;rsquo;HCQ est bien un remède efficace [ref hcqmeta,&amp;hellip;].</description>
+    </item>
+    
+    <item>
+      <title>Exponentielle</title>
+      <link>https://cogid.netlify.app/docs/covid/dynexp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/dynexp/</guid>
+      <description>La dynamique d&amp;rsquo;une épidémie est-elle réellement exponentielle? #  </description>
     </item>
     
     <item>

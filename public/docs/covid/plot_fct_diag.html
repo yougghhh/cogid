@@ -27,8 +27,8 @@ $('.slider').on('input change', function(){
 
     body {
     font-family: Helvetica, arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 17px;
+    //line-height: 1.6;
     padding: 30px; 
     padding-top: 10px;
     padding-bottom: 10px;
@@ -59,11 +59,13 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
 
 
 <H2>Fiabilité des tests diagnostics</h2>
-  <p>Le graphique ci-dessous montre l'évolution de la fiabilité d'un test diagnostic en fonction de la probabilité pré-test
-     de la maladie. La probabilité de faux négatif (resp. faux positif) pré-test est égale à 1 moins la sensibilité 
-     (resp. spécificité).
-    Cliquer sur "Autoscale" pour afficher l'ensemble des données, et sur "Reset axes" pour restaurer la vue initiale
-     (menu en haut à droite s'affichant au passage de la souris).</p>
+  <p>Le graphique ci-dessous montre comment la "fiabilité" d'un test diagnostic varie en fonction de la probabilité pré-test
+     d'être malade. La probabilité de faux négatif (resp. faux positif) pré-test est égale à 1 moins la sensibilité 
+     (resp. spécificité) du test. Voir <a href="https://cogid.netlify.app/docs/diagtest.pdf">cet article</a>
+     pour plus de détails.
+     <br>Cliquer sur l'icône "Autoscale" pour afficher l'ensemble des données, et sur "Reset axes" pour restaurer la vue initiale
+     (dans le menu qui s'affiche en haut à droite au passage de la souris).
+    </p>
 
 <br>
 <p><label for="slid1">Sensibilité: </label>
@@ -72,8 +74,10 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
 
 
 <p><label for="slid2">Spécificité: </label> 
-<input type="range" id="slid2"  class="slider" min="0" max="1" value="0.99" step="0.01">
+<input type="range" id="slid2"  class="slider" min="0" max="1" value="0.99" step="0.001">
   <span  class="slider_label"></span></p>
+
+  
 
 <!--  affichage des graphiques -->
 <div style="width: 100%; overflow: hidden;">
@@ -139,7 +143,7 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
         x: [0,1],
         y: [1-pslid1,1-pslid1],
         type: 'scatter',
-        name: 'P(faux -) pre-test',
+        name: 'P(faux -) pré-test',
         line: {
         dash: 'dot',
         width: 2,
@@ -151,7 +155,7 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
         x: [0,1],
         y: [1-pslid2,1-pslid2],
         type: 'scatter',
-        name: 'P(faux +) pre-test',
+        name: 'P(faux +) pré-test',
         line: {
         dash: 'dot',
         width: 2,
@@ -172,7 +176,7 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
        width: 700,
        height: 500,
        xaxis: {
-        title: 'Probabilité pre-test d\'être malade',
+        title: 'Probabilité pré-test d\'être malade',
        }
       }
 
@@ -180,7 +184,7 @@ cf. https://www.w3schools.com/tags/tag_label.asp -->
        width: 800,
        height: 500,
        xaxis: {
-        title: 'Probabilité pre-test d\'être malade',
+        title: 'Probabilité pré-test d\'être malade',
         range: [0.0, 0.25],
         //autorange: false
        },
