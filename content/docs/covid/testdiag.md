@@ -10,7 +10,7 @@ weight: 3
   
  1. Celles attirant l'attention sur le fait que la confiance qu'on peut accorder au résultat d'un test dépend de la _prévalence_ de la maladie, c'est-à-dire de la proportion de personnes malades dans la population à laquelle on appartient (voir par exemple [cet article d'Etienne Klein](https://tracts.gallimard.fr/fr/products/tracts-de-crise-n-25-je-ne-suis-pas-medecin-mais), ou  [ce post de blog (en anglais)](https://medium.com/@niryungster/where-you-live-affects-what-your-covid-19-test-means-a9cd798fcd10), parus tous deux au début de la crise sanitaire);
  
- 2. Celles concernant "l'hypersensibilité" potentielle des tests RT-PCR, qui conduirait à considérer comme contagieux des individus "sains" (voir par exemple [cet article](https://www.lemonde.fr/les-decodeurs/article/2020/09/09/covid-19-l-hypersensibilite-des-tests-pcr-entre-intox-et-vrai-debat_6051528_4355770.html) de presse).
+ 2. Celles concernant "l'hypersensibilité" potentielle des tests RT-PCR, qui conduirait à considérer comme contagieux des individus "sains" (voir par exemple [cet article de presse](https://www.lemonde.fr/les-decodeurs/article/2020/09/09/covid-19-l-hypersensibilite-des-tests-pcr-entre-intox-et-vrai-debat_6051528_4355770.html)).
  
 
 ### **Réaction au point 1**
