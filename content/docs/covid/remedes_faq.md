@@ -126,7 +126,7 @@ C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'H
 
 <p>
 <details>
-  <summary>Qu'en est-il de la synthèse d'études décrite sur la page HCQmeta.com?</summary>
+  <summary>Qu'en est-il de la très vaste synthèse d'études décrite sur la page HCQmeta.com?</summary>
 
 Il y a essentiellement deux raisons de ne pas faire confiance aux informations rapportées sur cette page. La première (qui ne nécessite pas de connaissance particulière du sujet) est de constater que les auteurs ne déclarent pas leur identité, et ne sont joignables d'aucune manière[^feedbackhcq]. S'il s'agissait d'une étude sérieuse, les auteurs publieraient *a minima* leur travail sur une plateforme scientifique d'accès libre telle que [medRxiv](https://www.medrxiv.org), où tout chercheur peut rendre ses résultats disponibles à la communauté scientifique avant qu'il soit accepté pour publication dans un journal. En particulier, l'existence d'un "complot" empêchant la publication d'une étude dans un journal scientifique ne tient pas pour ce genre de plateforme, ouverte à des travaux encore non évalués pour publication. 
 
