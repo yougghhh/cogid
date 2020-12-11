@@ -98,34 +98,45 @@ On notera par ailleurs qu'en 2006, suite à la mise à jour de [manipulation de 
 </details>
 
 <p>
-<details>
-  <summary>Comment peut-on dire que l'HCQ est inefficace alors que plusieurs études (autres que celles de Raoult et son équipe) concluent à son efficacité?</summary>
+<details id="biais">
+  <summary >Comment peut-on dire que l'HCQ est inefficace alors que plusieurs études (autres que celles de Raoult et son équipe) concluent à son efficacité?</summary>
 
 La plupart des études concluant à l'efficacité de l'HCQ sont des études dites observationnelles[^defobs], dans lesquelles rien n'a été fait a priori pour assurer la comparabilité entre le groupe soumis au traitement et le groupe non soumis au traitement. En particulier, les deux groupes ont généralement des caractéristiques différentes en termes d'âge, de sexe, de comorbidités (facteurs de risque préalables pour la maladie), d'état clinique au démarrage du traitement,...
-Il existe des méthodes statistiques (modélisation multivariée) visant à corriger a posteriori ces biais dits de "confusion", mais elles requièrent que les données concernant toutes les variables pouvant affecter le résultat du traitement soient disponibles, ce qui n'est pas toujours le cas (ne serait-ce que parce qu'on ne connaît généralement pas tous les facteurs de risque pour une pathologie nouvelle). Elles reposent sur des hypothèses concernant la manière dont les différentes variables de confusion affectent le résultat du traitement, hypothèses qui sont généralement au mieux des approximations acceptables.
+Il existe des méthodes mathématiques (modélisation multivariée) visant à corriger *a posteriori* ces biais dits de "confusion", mais elles requièrent que les données concernant toutes les variables pouvant affecter le résultat du traitement soient disponibles, ce qui n'est pas toujours le cas (ne serait-ce que parce qu'on ne connaît généralement pas tous les facteurs de risque pour une pathologie nouvelle). Elles reposent sur des hypothèses concernant la manière dont les différentes variables de confusion affectent le résultat du traitement, hypothèses qui sont généralement au mieux des approximations acceptables.
 
-Non seulement les études observationnelles sont intrinsèquement biaisées, mais plusieurs études observationnelles sur l'HCQ n'utilisent que partiellement les méthodes statistiques existant pour atténuer les biais de confusion, voire n'en utilisent pas du tout. Pour évaluer si le niveau de biais d'une étude observationnelle est acceptable, il existe des outils tels que [ROBINS-I](https://training.cochrane.org/handbook/current/chapter-25). Ce guide répertorie 7 types de biais (dont le biais de confusion), et propose de les évaluer sur une échelle à 4 niveaux: faible, modéré, fort, et critique. Lorsqu'une étude observationnelle présente un biais critique, elle doit être considérée comme non fiable. C'est la méthode d'évaluation qu'ont notamment suivi les auteurs de [cette méta-analyse](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext). On peut voir dans les [fichiers fournis en complément de l'article](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext#supplementaryMaterial) pourquoi de nombreuses études observationnelles ont du être écartées de l'analyse.
+Non seulement les études observationnelles sont intrinsèquement sujettes aux biais de confusion, mais plusieurs études observationnelles sur l'HCQ n'utilisent que partiellement les méthodes mathématiques existant pour atténuer ce type de biais, voire n'en utilisent pas du tout. Les études observationnelles sont également sujettes à d'autre biais, dont les principaux sont [listés ici](https://training.cochrane.org/handbook/current/chapter-25#_Ref524701847)[^intro-meta-an].
+Pour évaluer si le niveau de biais d'une étude observationnelle est acceptable, il existe des outils tels que [ROBINS-I](https://training.cochrane.org/handbook/current/chapter-25), qui propose de les évaluer sur une échelle à 4 niveaux: faible, modéré, fort, et critique. Lorsqu'une étude observationnelle présente un biais critique, elle est considérée comme non fiable. C'est la méthode d'évaluation qu'ont notamment suivi les auteurs de [cette méta-analyse](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext)[^def-meta-an]. On peut voir dans les [fichiers fournis en complément de l'article](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext#supplementaryMaterial) pourquoi de nombreuses études observationnelles (dont celles de Raoult *et al.*) ont du être écartées de l'analyse.
 
-Les études portant sur des essais contrôlés randomisés (ECR) sont, en général, nettement moins sujettes à des biais. En effet, comme la répartition des patients entre deux groupes est déterminée par tirage au sort, pour autant que le nombre de participants soit suffisamment grand, l'équilibre statistique entre les deux groupes est assuré. Cette méthode garantit donc également que les deux groupes sont équilibrés au niveau des facteurs inconnus qui pourraient affecter le résultat du traitement (et pour lesquels aucun ajustement statistique a posteriori n'est possible).
+Les études portant sur des essais contrôlés randomisés (ECR) sont, en général, beaucoup moins sujettes à des biais. En particulier, comme la répartition des patients entre deux groupes est déterminée par tirage au sort, pour autant que le nombre de participants soit suffisamment grand, l'équilibre statistique entre les deux groupes est assuré. Cette méthode garantit donc également que les deux groupes sont équilibrés au niveau des facteurs inconnus qui pourraient affecter le résultat du traitement (et pour lesquels aucun ajustement statistique *a posteriori* n'est possible).
 On vérifie généralement à l'issue du tirage au sort si l'équilibre entre les groupes est effectivement atteint pour les facteurs de risque connus (voir par exemple [cette table](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2020/nejm_2020.383.issue-21/nejmoa2022926/20201113/images/img_xlarge/nejmoa2022926_t1.jpeg) pour l'essai contrôlé randomisé RECOVERY sur l'HCQ). 
-Lorsque ce n'est pas le cas, on peut, comme pour les études observationnelles, utilser des méthodes statistiques pour essayer de corriger a posteriori les biais de confusion.
+Lorsque ce n'est pas le cas, on peut, comme pour les études observationnelles, utilser des méthodes mathématiques pour essayer de corriger *a posteriori* les biais de confusion.
 
-Les essais contrôlés randomisés de grande envergure qui ont été menés pour évaluer différents traitements potentiels de la covid-19, [RECOVERY](https://www.nejm.org/doi/10.1056/NEJMoa2022926) et [WHO Solidarity](https://www.nejm.org/doi/full/10.1056/NEJMoa2023184), ont conclu à l'inefficacité de l'HCQ. Une méta-analyse (travail d'analyse et de synthèse d'une catégorie d'études, prenant notamment en compte le niveau de biais des études incluses et la précision de leurs résultats), qui portait sur une majorité d'études observationnelles (car il y avait peu de résultats d'ECR disponibles au moment où ce travail a été réalisé), a abouti aux [mêmes conclusions](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext). D'autres méta-analyses, comportant un plus grand nombre d'ECR, ont depuis corroborré ces résultats[^refmetaan].
+Les essais contrôlés randomisés de grande envergure qui ont été menés pour évaluer différents traitements potentiels de la covid-19, [RECOVERY](https://www.nejm.org/doi/10.1056/NEJMoa2022926) et [WHO Solidarity](https://www.nejm.org/doi/full/10.1056/NEJMoa2023184), ont conclu à l'inefficacité de l'HCQ. Une méta-analyse qui portait sur une majorité d'études observationnelles (car il y avait peu de résultats d'ECR disponibles au moment où ce travail a été réalisé), a abouti aux [mêmes conclusions](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext). D'autres méta-analyses, comportant un plus grand nombre d'ECR, ont depuis corroborré ces résultats[^refmetaan].
 C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'HCQ.
 
 [^defobs]: On parle d'étude observationnelle lorsque les auteurs de l'analyse sont étrangers (ou en tout cas, se déclarent étrangers) au processus d'affectation des patients aux différents groupes étudiés.
 
-[^refmetaan]: Par exemple, https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003293 et https://www.medrxiv.org/content/10.1101/2020.09.16.20194571v2.full.pdf
+[^def-meta-an]: Une méta-analyse est une synthèse statistique d'une catégorie d'études scientifiques portant sur un sujet donné, dont le résultat tient compte du niveau de biais des études incluses, ainsi que de l'hétérogénéité et de la dispersion des résultats (https://training.cochrane.org/handbook/current/chapter-10).
+
+[^intro-meta-an]: Pour une introduction (en français) aux différents types de biais potentiels d'une étude observationnelle, voir par exemple https://www.youtube.com/watch?v=hwE6HAg4o_8&t=637s
+
+[^refmetaan]: Par exemple ces deux méta-analyses: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003293 et https://www.medrxiv.org/content/10.1101/2020.09.16.20194571v2.full.pdf
 
 </details>
 
 <p>
 <details>
-  <summary>Pourquoi ne peut-on faire confiance aux infos données sur le site HCQmeta.com?</summary>
- 
- * auteurs dissimulent leur identité, alors que pourraient publier sur medrxiv,...
- * pool RR relatifs à différents indicateurs ; incluent résultats non significatifs
- * incluent études fortement biaisées
+  <summary>Qu'en est-il de la synthèse d'études décrite sur la page HCQmeta.com?</summary>
+
+Il y a essentiellement deux raisons de ne pas faire confiance aux informations rapportées sur cette page. La première (qui ne nécessite pas de connaissance particulière du sujet) est de constater que les auteurs ne déclarent pas leur identité, et ne sont joignables d'aucune manière[^feedbackhcq]. S'il s'agissait d'une étude sérieuse, les auteurs publieraient *a minima* leur travail sur une plateforme scientifique d'accès libre telle que [medRxiv](https://www.medrxiv.org), où tout chercheur peut rendre ses résultats disponibles à la communauté scientifique avant qu'il soit accepté pour publication dans un journal. En particulier, l'existence d'un "complot" empêchant la publication d'une étude dans un journal scientifique ne tient pas pour ce genre de plateforme, ouverte à des travaux encore non évalués pour publication. 
+
+La deuxième raison (qui repose sur les notions introduites au point précédent) est que cette page n'est qu'un simulacre de méta-analyse[^def-meta-an]. En effet, elle inclut un grand nombre d'études non valides, car comportant des biais critiques (cf. la discussion ci-dessus).
+En outre, même si elle n'incluait que des études avec des biais tolérables, 
+la mesure d'efficacité du traitement qu'elle donne n'a aucun sens, car elle mélange des données relatives à des indicateurs différents (proportions de décès, de patients avec tests PCR positifs, de personnes hospitalisées,...) mesurés à des moments différents après le début du traitement. Aucune information n'est donnée quant au poids accordé aux différents indicateurs et aux différentes études dans le calcul de la mesure globale d'efficacité.
+C'est un peu comme si on disait que manger du chocolat améliore notre état général de 15% parce qu'en moyenne, il améliore l'humeur de 30% et augmente le poids de 10%, sans que ces variables aient été mesurées au même moment chez tous les individus et sans préciser quelle importance a été donnée à chacune dans l'estimation globale de l'effet. <br>
+Une méta-analyse valide porte sur un indicateur à la fois, et le poids accordé aux différents études sur le sujet est fonction de la dispersion des résultats autour de la moyenne (un choix fréquent est de donner un [poids inversément proportionnel à la variance des résultats](https://training.cochrane.org/handbook/current/chapter-10#section-10-3)).
+
+[^feedbackhcq]: Le formulaire en bas de page n'offre pas, comme cela est généralement le cas, la possibilité d'être recontacté par email pour avoir réponse à ses questions.
  
  </details>
 
@@ -155,7 +166,7 @@ La proportion de patients dont le test PCR était négatif au démarrage de l'é
 
 Il est intéressant de mettre en perspective l'importance accordée par D. Raoult à la réalisation de tests PCR pour le diagnostic de la covid-19 avec le fait qu'il a co-créé, avec d'autres membres de l'IHU, une société ([Pocramé](http://pocrame.com)) qui produit de tels tests, et dans laquelle il possède des actions.
 
-Enfin, il est ironique de noter que certains "supporters" de D. Raoult, tels que C. Perronne, ont quant à eux [mis en doute la fiabilité des tests PCR](testdiag) pour le diagnostic de la covid-19, prétendant qu'ils génèreraient de nombreux faux positifs et conduiraient dès lors à surestimer l'importance de l'épidémie... Bref, il y a pour le moins des divergences de vue dans l'entourage de D. Raoult.
+Enfin, il est ironique de noter que certains sympathisants de D. Raoult, tels que C. Perronne, ont quant à eux [mis en doute la fiabilité des tests PCR](testdiag) pour le diagnostic de la covid-19, prétendant qu'ils génèreraient de nombreux faux positifs et conduiraient dès lors à surestimer l'importance de l'épidémie... Bref, il y a pour le moins des divergences de vue dans l'entourage de D. Raoult.
 
 </details>
 
@@ -175,7 +186,7 @@ La plupart des autres limitations des ECR... sont aussi valables pour les étude
 
 En bref, une étude observationnelle bien conçue (pour minimiser les biais intrinsèques à ce type d'étude, cf. plus haut) ne fera au mieux que s'approcher de l'essai contrôlé randomisé qui n'a pu être réalisé en lieu et place de celle-ci.
 
-[^etudes-belge-ital]: En particulier, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7444610/ et https://www.ejinme.com/article/S0953-6205(20)30335-6/fulltext
+[^etudes-belge-ital]: En particulier, ces deux études (respectivement belge et italienne): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7444610/ et https://www.ejinme.com/article/S0953-6205(20)30335-6/fulltext
 
 </details>
 
