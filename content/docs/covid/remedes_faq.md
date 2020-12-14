@@ -3,7 +3,7 @@ title: Remèdes (F.A.Q.)
 weight: 4
 ---
 
-### **La saga HCQ**
+## **La saga HCQ**
 
 La controverse au sujet de l'efficacité de l'hydroxychloroquine (HCQ) comme traitement du covid-19 n'aura échappé à personne. Si, au vu des études publiées à l'heure actuelle, la plupart des spécialistes concluent à son inefficacité[^cmipaul], D. Raoult et ses collaborateurs continuent à contester la validité des études amenant à ces conclusions[^cmiraoult]. Par ailleurs, quelques pages web, dont les auteurs ne sont pas déclarés, affirment (en s'appuyant en apparence sur de nombreuses études) que l'HCQ est bien un remède efficace[^hcqmeta].
 
@@ -98,7 +98,7 @@ On notera par ailleurs qu'en 2006, suite à la mise à jour de [manipulation de 
 </details>
 
 <p>
-<details id="biais">
+<details id="obs-bias">
   <summary >Comment peut-on dire que l'HCQ est inefficace alors que plusieurs études (autres que celles de Raoult et son équipe) concluent à son efficacité?</summary>
 
 La plupart des études concluant à l'efficacité de l'HCQ sont des études dites observationnelles[^defobs], dans lesquelles rien n'a été fait a priori pour assurer la comparabilité entre le groupe soumis au traitement et le groupe non soumis au traitement. En particulier, les deux groupes ont généralement des caractéristiques différentes en termes d'âge, de sexe, de comorbidités (facteurs de risque préalables pour la maladie), d'état clinique au démarrage du traitement,...
@@ -125,7 +125,7 @@ C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'H
 </details>
 
 <p>
-<details>
+<details id="hcqmeta">
   <summary>Qu'en est-il de la très vaste synthèse d'études décrite sur la page HCQmeta.com?</summary>
 
 Il y a essentiellement deux raisons de ne pas faire confiance aux informations rapportées sur cette page. La première (qui ne nécessite pas de connaissance particulière du sujet) est de constater que les auteurs ne déclarent pas leur identité, et ne sont joignables d'aucune manière[^feedbackhcq]. S'il s'agissait d'une étude sérieuse, les auteurs publieraient *a minima* leur travail sur une plateforme scientifique d'accès libre telle que [medRxiv](https://www.medrxiv.org), où tout chercheur peut rendre ses résultats disponibles à la communauté scientifique avant qu'il soit accepté pour publication dans un journal. En particulier, l'existence d'un "complot" empêchant la publication d'une étude dans un journal scientifique ne tient pas pour ce genre de plateforme, ouverte à des travaux encore non évalués pour publication. 

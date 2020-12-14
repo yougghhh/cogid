@@ -33,7 +33,7 @@ Ce deuxième questionnement est particulièrement crucial à l'heure actuelle, o
 Est-il vraiment crédible que quelques intérêts privés puissent "acheter" et faire taire les dizaines de milliers de citoyens dont le silence serait requis pour que le complot fonctionne, alors que ces citoyens souffrent au quotidien de la situation actuelle comme ils n'ont jamais souffert auparavant?
 Ce sont ces questions que nous devons regarder en face, au moment où il serait plus doux de croire que nous pourrions nous dispenser de toutes les restrictions sanitaires qui altèrent nos vies actuellement.
 
-Une très bonne source pour prolonger la réflexion proposée dans cet article est le site ["hygiène mentale"](http://laelith.fr/Zet/Episodes/), en particulier [cette excellente vidéo]( https://skeptikon.fr/videos/watch/42d64f6b-3cb7-4d53-9a02-5d63cea066e9).
+Une très bonne source pour prolonger la démarche d'esprit critique proposée dans cet article est le site [Hygiène Mentale](http://laelith.fr/Zet/Episodes/), en particulier la vidéo "[Les deux vitesses de la pensée, et le "Bullshitomètre"]( https://skeptikon.fr/videos/watch/42d64f6b-3cb7-4d53-9a02-5d63cea066e9)".
 
 
 [^raismot]: Une traduction littérale de l'anglais "motivated reasoning", qu'il serait certainement plus approprié de remplacer par "raisonnement intéressé".

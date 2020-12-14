@@ -81,6 +81,9 @@ La [première étude](https://www.sciencedirect.com/science/article/pii/S0924857
 La [deuxième étude](https://www.sciencedirect.com/science/article/abs/pii/S1477893920302179) (Million et al.), portait sur la mortalité observée chez 1061 patients traités à l'HCQ + Azithromycine (AZ). Comme elle ne comportait pas de groupe contrôle, il est impossible d'évaluer si le traitement fait mieux qu'un placebo ou un autre traitement. En particulier, une très large proportion de patients traités n'avaient que de très légers symptômes. Il n'est donc pas étonnant que la mortalité de ce groupe soit inférieure à celle observée dans d'autres populations hospitalisées - un des "résultats" largement diffusés publiquement par Raoult pour promouvoir l'HCQ.
 Enfin, l'étude ne porte que sur les patients ayant suivi le traitement au moins 3 jours, de sorte que les patients décédés avant ce délai ne sont pas pris en compte dans les statistiques de mortalité. 
 
+La [deuxième étude](https://www.sciencedirect.com/science/article/abs/pii/S1477893920302179) (Million *et al.*), portait sur la mortalité observée chez 1061 patients traités à l'HCQ + Azithromycine (AZ). Comme elle ne comportait pas de groupe contrôle, il est impossible d'évaluer si le traitement fait mieux qu'un placebo ou un autre traitement. En particulier, une très large proportion des patients traités n'avaient que de très légers symptômes. Il n'est donc pas étonnant que la mortalité de ce groupe soit inférieure à celle observée dans d'autres populations hospitalisées (alors que cette mortalité "réduite" est un des arguments les plus mis en avant publiquement par Raoult pour promouvoir l'HCQ; voir aussi [cette vidéo](https://youtu.be/3HHb6ykUPm8?t=97)).
+Enfin, l'étude ne portait que sur les patients ayant suivi le traitement au moins 3 jours, de sorte que les patients décédés avant ce délai ne sont pas pris en compte dans les statistiques de mortalité. 
+
 
 La [troisième étude](https://www.sciencedirect.com/science/article/pii/S1477893920302817) (Lagier et al., ) est une extension de la précédente à 3767 patients, dont 3119 traités avec HCQ+AZ et 618 soumis à un "autre" traitement.
 les patients dont l'état s'aggravait initialement avec le traitement (moins de 3 jours sous HCQ) étaient comptabilisés dans le groupe de contrôle au lieu d'être exclus de l'étude, augmentant ainsi indûment la proportion de patients gravement malades dans le groupe de contrôle[^cmi-rep-fiolet];
@@ -130,9 +133,12 @@ C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'H
 
 7. **Pourquoi ne peut-on faire confiance aux infos données sur le site HCQmeta.com?**
  
- * auteurs dissimulent leur identité, alors que pourraient publier sur medrxiv,...
- * pool RR relatifs à différents indicateurs 
- * incluent études fortement biaisées
+La première raison de ne pas faire confiance aux informations rapportées sur cette page (et ces variantes[^hcqmeta]) est que les auteurs ne déclarent pas leur identité. S'il s'agissait d'une étude sérieuse, les auteurs publieraient *a minima* leur travail sur une plateforme scientifique d'accès libre telle que [medRxiv](https://www.medrxiv.org), où tout chercheur peut rendre ses résultats disponibles à la communauté scientifique avant qu'il soit accepté pour publication dans un journal. En particulier, l'existence d'un "complot" empêchant la publication d'une étude dans un journal scientifique ne tient pas pour ce genre de plateforme, ouverte à des travaux non encore évalués pour publication. 
+
+La deuxième raison (de fond) est que cette page est un simulacre de méta-analyse. En effet, elle inclut un grand nombre d'études non valides, car comportant des biais critiques (cf. la discussion ci-dessus).
+En outre, même si elle n'incluait que des études avec des biais tolérables (cf. les critères [ROBINS-I](https://training.cochrane.org/handbook/current/chapter-25) mentionnés plus haut), 
+la mesure d'efficacité du traitement qu'elle donne n'a aucun sens, car son calcul mélange des données relatives à des indicateurs différents (proportions de décès, de patients avec tests PCR positifs, de personnes hospitalisées,...) mesurés à des moments différents après le début du traitement. En outre, aucune information n'est donnée quant au poids accordé aux différents indicateurs et aux différentes études dans le calcul de la mesure globale d'efficacité.
+C'est un peu comme si on disait que manger du chocolat améliore notre état général de 15% parce qu'il améliore l'humeur de 30% mais augmente le poids de 10%, sans que ces valeurs aient été mesurées au même moment chez tous les individus et sans préciser quelle importance a été donnée à chaque facteur dans l'estimation globale.
 
 
 ---
