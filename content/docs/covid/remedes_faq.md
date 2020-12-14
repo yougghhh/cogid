@@ -15,9 +15,7 @@ Voici quelques suggestions à cette fin, sous la forme d'une série de questionn
 [^hcqmeta]: https://hcqmeta.com , https://hcqtrial.com
 
 <details>
-  <summary>Est-il plausible qu'il y ait un complot mondial pour dissimuler l'efficacité de l'HCQ?</summary>
-  
-
+  <summary>1. Est-il plausible qu'il y ait un complot mondial pour dissimuler l'efficacité de l'HCQ?</summary>
 
 L'argument principal dans ce sens est que les firmes pharmaceutiques ont beaucoup plus d'intérêt à promouvoir le développement d'un coûteux vaccin qu'à reconnaître l'efficacité de l'HCQ, car il s'agit d'un médicament peu coûteux, déjà disponible sur le marché. Mais est-il plausible que le secteur des "Big Pharma" ait plus d'influence sur les chercheurs, les medias, les politiques,.... que tous les autres acteurs économiques réunis, qui de leur côté ont tout intérêt à ce que la pandémie se termine au plus vite? Est-il crédible que toutes ces personnes, sauf D. Raoult et son équipe, soient "vendues" à Big Pharma, et aient plus d'intérêt à taire cette information qu'à la révéler, alors qu'ils souffrent eux-mêmes considérablement au quotidien des restrictions sanitaires (et pour les politiques, de l'impopularité de ces mesures, nuisible à leur score électoral)?
 On notera par ailleurs que [D. Raoult et sa fondation ne sont pas sans lien avec l'industrie pharmaceutique (Sanofi) et médicale (Pocramé)](http://sante-secu-social.npa2009.org/?Mediapart-Chloroquine-pourquoi-le-passe-de-Didier-Raoult-joue-contre-lui). <br>
@@ -29,7 +27,7 @@ Notons enfin que [de nombreux autres candidats anti-viraux potentiels](https://r
 
 <p>
 <details>
-  <summary>Peut-on réellement faire confiance au consensus scientifique en temps de crise, et peut-on même parler de consensus sur une période si courte?</summary>
+  <summary>2. Peut-on réellement faire confiance au consensus scientifique en temps de crise, et peut-on même parler de consensus sur une période si courte?</summary>
   
 Il faut bien noter que le consensus scientifique ne porte pas avant tout sur l'inefficacité de l'HCQ, mais bien sur le fait que la plupart des études concluant à cette inefficacité sont plus fiables que les études concluant à son efficacité[^cmipaul]. En particulier, il y a de nombreuses raisons d'accorder plus de crédit, en général, aux résultats d'un essai randomisé contrôlé qu'à ceux d'une étude observationnelle rétrospective pour évaluer l'efficacité d'un traitement, et ces raisons ne datent pas d'hier (voir plus bas).
 
@@ -38,7 +36,7 @@ Il faut bien noter que le consensus scientifique ne porte pas avant tout sur l'i
 <p>
 <details>
   <summary>
-N'est-il pas tout aussi légitime de faire confiance à un professeur renommé, directeur d'un grand institut, qu'à une majorité de scientifiques inconnus?</summary>
+3. N'est-il pas tout aussi légitime de faire confiance à un professeur renommé, directeur d'un grand institut, qu'à une majorité de scientifiques inconnus?</summary>
 
 Lorsqu'on examine sur quoi repose la réputation de D. Raoult, on se rend compte qu'il y a plus de raisons _a priori_ de de douter de son intégrité scientifique que de lui accorder du crédit. 
 En raison de son nombre de publications tout d'abord: lorsqu'on est co-auteur de plus de 100 publications par an au cours des 10 dernières années, càd au moins 2 publications par semaine[^pubraoult], il est impossible de faire beaucoup plus que de mettre sa signature sur la plupart des articles. Pour donner un point de comparaison, un chercheur en début de carrière (doctorant) publie rarement plus d'un article par an (en moyenne sur la durée de sa thèse) et un chercheur "confirmé" est rarement réellement co-auteur de plus de 5 à 10 travaux par an. Au-delà, la participation à un article ne reflète au mieux un travail de supervision superficiel (en tant que directeur d'une équipe de recherche,...), au pire la caution à des travaux auxquels on n'a pas participé.
@@ -56,7 +54,7 @@ D'autres informations interpellantes concernant la déontologie de D. Raoult son
 
 <p>
 <details>
-  <summary>L'existence de conflits d'intérêt n'implique pas forcément que les résultats scientifiques mis en avant sont faux: ne faut-il pas examiner le contenu des travaux pour trancher?</summary>
+  <summary>4. L'existence de conflits d'intérêt n'implique pas forcément que les résultats scientifiques mis en avant sont faux: ne faut-il pas examiner le contenu des travaux pour trancher?</summary>
 
 Bien sûr. Malheureusement, la plupart d'entre nous n'ont pas le bagage nécessaire pour comprendre le détail de ces publications scientifiques. Et il est illusoire de croire qu'en lisant quelques articles de vulgarisation sur le net, nous allons être capables d'évaluer réellement le travail effectué. En réalité, il nous faudrait refaire des années d'études pour cela ([ce cartoon](https://www.tomgauld.com/shop/science-hell-print) illustre à merveille cet état de fait). 
 Nous ne pouvons donc effectuer cet examen que partiellement, et en interrogeant des spécialistes pour répondre à nos questions sur les nombreux points que nous ne serons pas à même d'éclaircir seuls (car un biais cognitif fréquent est de considérer que les points que nous ne comprenons pas n'ont pas d'importance, et de "passer outre" ces éléments alors qu'ils sont potentiellement cruciaux).
@@ -69,7 +67,7 @@ Dans le cas de la controverse sur l'HCQ, une telle analyse penche clairement en 
 
 <p>
 <details>
-  <summary>Quels sont les éléments montrant que les études sur l'HCQ de Raoult et son équipe ne sont pas fiables?</summary>
+  <summary>5. Quels sont les éléments montrant que les études sur l'HCQ de Raoult et son équipe ne sont pas fiables?</summary>
 
 La plupart des biais que comportent ces études sont compréhensibles sans formation scientifique poussée; en voici les principaux.
 
@@ -99,7 +97,7 @@ On notera par ailleurs qu'en 2006, suite à la mise à jour de [manipulation de 
 
 <p>
 <details id="obs-bias">
-  <summary >Comment peut-on dire que l'HCQ est inefficace alors que plusieurs études (autres que celles de Raoult et son équipe) concluent à son efficacité?</summary>
+  <summary >6. Comment peut-on dire que l'HCQ est inefficace alors que plusieurs études (autres que celles de Raoult et son équipe) concluent à son efficacité?</summary>
 
 La plupart des études concluant à l'efficacité de l'HCQ sont des études dites observationnelles[^defobs], dans lesquelles rien n'a été fait a priori pour assurer la comparabilité entre le groupe soumis au traitement et le groupe non soumis au traitement. En particulier, les deux groupes ont généralement des caractéristiques différentes en termes d'âge, de sexe, de comorbidités (facteurs de risque préalables pour la maladie), d'état clinique au démarrage du traitement,...
 Il existe des méthodes mathématiques (modélisation multivariée) visant à corriger *a posteriori* ces biais dits de "confusion", mais elles requièrent que les données concernant toutes les variables pouvant affecter le résultat du traitement soient disponibles, ce qui n'est pas toujours le cas (ne serait-ce que parce qu'on ne connaît généralement pas tous les facteurs de risque pour une pathologie nouvelle). Elles reposent sur des hypothèses concernant la manière dont les différentes variables de confusion affectent le résultat du traitement, hypothèses qui sont généralement au mieux des approximations acceptables.
@@ -126,7 +124,7 @@ C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'H
 
 <p>
 <details id="hcqmeta">
-  <summary>Qu'en est-il de la très vaste synthèse d'études décrite sur la page HCQmeta.com?</summary>
+  <summary>7. Qu'en est-il de la très vaste synthèse d'études décrite sur la page HCQmeta.com?</summary>
 
 Il y a essentiellement deux raisons de ne pas faire confiance aux informations rapportées sur cette page. La première (qui ne nécessite pas de connaissance particulière du sujet) est de constater que les auteurs ne déclarent pas leur identité, et ne sont joignables d'aucune manière[^feedbackhcq]. S'il s'agissait d'une étude sérieuse, les auteurs publieraient *a minima* leur travail sur une plateforme scientifique d'accès libre telle que [medRxiv](https://www.medrxiv.org), où tout chercheur peut rendre ses résultats disponibles à la communauté scientifique avant qu'il soit accepté pour publication dans un journal. En particulier, l'existence d'un "complot" empêchant la publication d'une étude dans un journal scientifique ne tient pas pour ce genre de plateforme, ouverte à des travaux encore non évalués pour publication. 
 
@@ -142,7 +140,7 @@ Une méta-analyse valide porte sur un indicateur à la fois, et le poids accord�
 
 <p>
 <details>
-  <summary>Les grands essais contrôlés randomisés, Recovery et Solidarity, concluant à l'absence d'effet de l'HCQ, ont utilisé une dose inhabituellement élévée d'HCQ (que certains ont même qualifiée de toxique). Peut-on dès lors écarter l'existence d'un effet bénéfique à faible dose?</summary>
+  <summary>8. Les grands essais contrôlés randomisés, Recovery et Solidarity, concluant à l'absence d'effet de l'HCQ, ont utilisé une dose inhabituellement élévée d'HCQ (que certains ont même qualifiée de toxique). Peut-on dès lors écarter l'existence d'un effet bénéfique à faible dose?</summary>
 
 C'est uniquement la dose initiale d'HCQ qui était plus élevée dans les essais Recovery et Solidarity que dans les études précédentes, et cela pour maximiser les chances d'observer un effet bénéfique. En effet, des [études *in vitro* ont montré](https://www.sciencesetavenir.fr/sante/covid-19-clarifications-sur-la-pharmacocinetique-de-l-hydroxychloroquine_143879) qu'il fallait des concentrations cellulaires élévées pour que l'HCQ puisse montrer un effet anti-viral[^hcqinvivo]. Pour avoir un espoir d'atteindre ces concentrations *in vivo* endéans quelques jours (puisque l'état des patients hospitalisés peut rapidement dégénérer), il est apparu nécessaire de donner les doses les plus élevées possibles tout en restant en-dessous du seuil de toxicité. La dose retenue n'est potentiellement toxique que si elle est administrée sur une longue période, comme dans le cadre du traitement de maladies chroniques comme le lupus. 
 
@@ -158,7 +156,7 @@ Or, D. Raoult motivait sa promotion du traitement HCQ par son potentiel effet an
 
 <p>
 <details>
-  <summary>Certains essais contrôlés randomisés, dont Recovery et Solidarity, incluaient des patients dont le test PCR était négatif. Cela n'entâche-t-il pas la validité des résultats?</summary>
+  <summary>9. Certains essais contrôlés randomisés, dont Recovery et Solidarity, incluaient des patients dont le test PCR était négatif. Cela n'entâche-t-il pas la validité des résultats?</summary>
 
 Tous les malades inclus dans des essais randomisés contrôlés avaient, bien évidemment, été diagnostiqués comme porteurs de la covid-19. Le test PCR ne constitue qu'un élément du diagnostic de la maladie; bien d'autres éléments entrent en jeu (symptômes, scanner thoracique,...). La charge virale mesurée par un test PCR naso-pharyngé peut fluctuer dans le temps, ...comme l'illustre à merveille la première étude de Raoult *et al.* (voir ci-dessus).
 
@@ -172,7 +170,7 @@ Enfin, il est ironique de noter que certains sympathisants de D. Raoult, tels qu
 
 <p>
 <details>
-  <summary>N'existe-t-il pas des circonstances où une étude observationnelle est préférable à un essai contrôlé randomisé (ECR)?</summary>
+  <summary>10. N'existe-t-il pas des circonstances où une étude observationnelle est préférable à un essai contrôlé randomisé (ECR)?</summary>
 
 Oui, lorsqu'il n'est pas possible d'effectuer un ECR pour des raisons éthiques. Un des exemples les plus connus est l'étude des effets du tabac sur la santé. Il est bien évident qu'on n'a jamais imposé à un groupe d'individus de fumer une certaine quantité de tabac par jour pour étudier ses effets; on a à la place comparé des populations de fumeurs (déjà "pratiquants") à des populations de non-fumeurs avec des caractéristiques aussi similaires que possible.
 
