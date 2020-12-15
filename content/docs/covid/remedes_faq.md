@@ -66,7 +66,7 @@ Dans le cas de la controverse sur l'HCQ, une telle analyse penche clairement en 
 </details>
 
 <p>
-<details>
+<details id="etudesraoult">
   <summary>5. Quels sont les éléments montrant que les études sur l'HCQ de Raoult et son équipe ne sont pas fiables?</summary>
 
 La plupart des biais que comportent ces études sont compréhensibles sans formation scientifique poussée; en voici les principaux.
@@ -82,7 +82,7 @@ La [première étude](https://www.sciencedirect.com/science/article/pii/S0924857
 La [deuxième étude](https://www.sciencedirect.com/science/article/abs/pii/S1477893920302179) (Million *et al.*), portait sur la mortalité observée chez 1061 patients traités à l'HCQ + Azithromycine (AZ). Comme elle ne comportait pas de groupe contrôle, il est impossible d'évaluer si le traitement fait mieux qu'un placebo ou un autre traitement. En particulier, une très large proportion des patients traités n'avaient que de très légers symptômes. Il n'est donc pas étonnant que la mortalité de ce groupe soit inférieure à celle observée dans d'autres populations hospitalisées (alors que cette mortalité "réduite" est un des arguments les plus mis en avant publiquement par Raoult pour promouvoir l'HCQ).
 Enfin, l'étude ne portait que sur les patients ayant suivi le traitement au moins 3 jours, de sorte que les patients décédés avant ce délai ne sont pas pris en compte dans les statistiques de mortalité. 
 
-
+<p id="lagier">
 La [troisième étude](https://www.sciencedirect.com/science/article/pii/S1477893920302817) (Lagier *et al.*) est une extension de la précédente à 3767 patients, dont 3119 traités avec HCQ+AZ durant au moins 3 jours, et 618 soumis à un "autre" traitement. La non uniformité de ce traitement alternatif, qui comporte non seulement des patients ne prenant aucun des deux médicaments (162), mais également des patients soumis à HCQ seul (101), à AZ seul (131), et... tous les patients ayant supporté le traitement moins de 3 jours (218), est une source importante de biais. En particulier, les patients décédés endéans les 3 premiers jours du traitement sont compatibilisés dans le groupe contrôle, augmentant indûment la mortalité estimée pour ce groupe[^cmi-rep-fiolet].
 
 Tous les éléments mentionnés ci-dessus (non exhaustifs) peuvent être vérifiés, de même que l'absence de réponse substantielle de Raoult *et al.* à ces manquements.
