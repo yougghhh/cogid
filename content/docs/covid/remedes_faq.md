@@ -14,7 +14,7 @@ Voici quelques suggestions à cette fin, sous la forme d'une série de questionn
 [^cmiraoult]: Voir par exemple: https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30643-1/fulltext
 [^hcqmeta]: https://hcqmeta.com , https://hcqtrial.com
 
-<details>
+<details id="complot">
   <summary>1. Est-il plausible qu'il y ait un complot mondial pour dissimuler l'efficacité de l'HCQ?</summary>
 
 L'argument principal dans ce sens est que les firmes pharmaceutiques ont beaucoup plus d'intérêt à promouvoir le développement d'un coûteux vaccin qu'à reconnaître l'efficacité de l'HCQ, car il s'agit d'un médicament peu coûteux, déjà disponible sur le marché. Mais est-il plausible que le secteur des "Big Pharma" ait plus d'influence sur les chercheurs, les medias, les politiques,.... que tous les autres acteurs économiques réunis, qui de leur côté ont tout intérêt à ce que la pandémie se termine au plus vite? Est-il crédible que toutes ces personnes, sauf D. Raoult et son équipe, soient "vendues" à Big Pharma, et aient plus d'intérêt à taire cette information qu'à la révéler, alors qu'ils souffrent eux-mêmes considérablement au quotidien des restrictions sanitaires (et pour les politiques, de l'impopularité de ces mesures, nuisible à leur score électoral)?
@@ -26,7 +26,7 @@ Notons enfin que [de nombreux autres candidats anti-viraux potentiels](https://r
 </details>
 
 <p>
-<details>
+<details id="consensus">
   <summary>2. Peut-on réellement faire confiance au consensus scientifique en temps de crise, et peut-on même parler de consensus sur une période si courte?</summary>
   
 Il faut bien noter que le consensus scientifique ne porte pas avant tout sur l'inefficacité de l'HCQ, mais bien sur le fait que la plupart des études concluant à cette inefficacité sont plus fiables que les études concluant à son efficacité[^cmipaul]. En particulier, il y a de nombreuses raisons d'accorder plus de crédit, en général, aux résultats d'un essai randomisé contrôlé qu'à ceux d'une étude observationnelle rétrospective pour évaluer l'efficacité d'un traitement, et ces raisons ne datent pas d'hier (voir plus bas).
@@ -34,7 +34,7 @@ Il faut bien noter que le consensus scientifique ne porte pas avant tout sur l'i
 </details>
 
 <p>
-<details>
+<details id="reputation">
   <summary>
 3. N'est-il pas tout aussi légitime de faire confiance à un professeur renommé, directeur d'un grand institut, qu'à une majorité de scientifiques inconnus?</summary>
 
@@ -53,7 +53,7 @@ D'autres informations interpellantes concernant la déontologie de D. Raoult son
 </details>
 
 <p>
-<details>
+<details id="examen">
   <summary>4. L'existence de conflits d'intérêt n'implique pas forcément que les résultats scientifiques mis en avant sont faux: ne faut-il pas examiner le contenu des travaux pour trancher?</summary>
 
 Bien sûr. Malheureusement, la plupart d'entre nous n'ont pas le bagage nécessaire pour comprendre le détail de ces publications scientifiques. Et il est illusoire de croire qu'en lisant quelques articles de vulgarisation sur le net, nous allons être capables d'évaluer réellement le travail effectué. En réalité, il nous faudrait refaire des années d'études pour cela ([ce cartoon](https://www.tomgauld.com/shop/science-hell-print) illustre à merveille cet état de fait). 
@@ -141,8 +141,8 @@ Une méta-analyse valide porte sur un indicateur à la fois, et le poids accord�
  </details>
 
 <p>
-<details>
-  <summary>8. Les grands essais contrôlés randomisés, Recovery et Solidarity, concluant à l'absence d'effet de l'HCQ, ont utilisé une dose inhabituellement élévée d'HCQ (que certains ont même qualifiée de toxique). Peut-on dès lors écarter l'existence d'un effet bénéfique à faible dose?</summary>
+<details id="dose">
+  <summary > 8. Les grands essais contrôlés randomisés, Recovery et Solidarity, concluant à l'absence d'effet de l'HCQ, ont utilisé une dose inhabituellement élévée d'HCQ (que certains ont même qualifiée de toxique). Peut-on dès lors écarter l'existence d'un effet bénéfique à faible dose?</summary>
 
 C'est uniquement la dose initiale d'HCQ qui était plus élevée dans les essais Recovery et Solidarity que dans les études précédentes, et cela pour maximiser les chances d'observer un effet bénéfique. En effet, des [études *in vitro* ont montré](https://www.sciencesetavenir.fr/sante/covid-19-clarifications-sur-la-pharmacocinetique-de-l-hydroxychloroquine_143879) qu'il fallait des concentrations cellulaires élévées pour que l'HCQ puisse montrer un effet anti-viral[^hcqinvivo]. Pour avoir un espoir d'atteindre ces concentrations *in vivo* endéans quelques jours (puisque l'état des patients hospitalisés peut rapidement dégénérer), il est apparu nécessaire de donner les doses les plus élevées possibles tout en restant en-dessous du seuil de toxicité. La dose retenue n'est potentiellement toxique que si elle est administrée sur une longue période, comme dans le cadre du traitement de maladies chroniques comme le lupus. 
 
@@ -157,7 +157,7 @@ Or, D. Raoult motivait sa promotion du traitement HCQ par son potentiel effet an
 </details>
 
 <p>
-<details>
+<details id="pcr">
   <summary>9. Certains essais contrôlés randomisés, dont Recovery et Solidarity, incluaient des patients dont le test PCR était négatif. Cela n'entâche-t-il pas la validité des résultats?</summary>
 
 Tous les malades inclus dans des essais randomisés contrôlés avaient, bien évidemment, été diagnostiqués comme porteurs de la covid-19. Le test PCR ne constitue qu'un élément du diagnostic de la maladie; bien d'autres éléments entrent en jeu (symptômes, scanner thoracique,...). La charge virale mesurée par un test PCR naso-pharyngé peut fluctuer dans le temps, ...comme l'illustre à merveille la première étude de Raoult *et al.* (voir ci-dessus).
@@ -171,7 +171,7 @@ Enfin, il est ironique de noter que certains sympathisants de D. Raoult, tels qu
 </details>
 
 <p>
-<details>
+<details id="ecr-vs-obs">
   <summary>10. N'existe-t-il pas des circonstances où une étude observationnelle est préférable à un essai contrôlé randomisé (ECR)?</summary>
 
 Oui, lorsqu'il n'est pas possible d'effectuer un ECR pour des raisons éthiques. Un des exemples les plus connus est l'étude des effets du tabac sur la santé. Il est bien évident qu'on n'a jamais imposé à un groupe d'individus de fumer une certaine quantité de tabac par jour pour étudier ses effets; on a à la place comparé des populations de fumeurs (déjà "pratiquants") à des populations de non-fumeurs avec des caractéristiques aussi similaires que possible.
