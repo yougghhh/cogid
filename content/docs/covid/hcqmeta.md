@@ -28,7 +28,7 @@ Les arguments principaux sont:
  * Cette étude ne figure pas dans les graphes en dessous du tableau parce que... ces graphes ne portent que sur les études examinant l'effet du traitement sur la mortalité ou sur l'incidence de la maladie (cf. le titre des graphiques...). L'étude d'Omrani n'examine pas ces aspects, mais bien l'évolution de la charge virale (tests PCR).
 
  * Comme le reflète la longueur de la "barre d'erreur" (intervalle de confiance de [0.26-2.94]  autour de 0.88), qui déborde du cadre de la figure, le résultat moyen (amélioration de 12%) est totalement non  significatif (énorme dispersion des résultats autour de cette moyenne). Sans maîtriser ce b-a-ba des statistiques, il n'y a aucun sens à s'exprimer sur le sujet.
-<br> Alternativement, un simple coup d'oeil au [résumé de l'article](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30389-8/fulltext) permet de vérifier que l'information donnée dans le tableau est correct: "HCQ, with or without AZ, is highly unlikely to result in meaningful benefit in patients with mild or asymptomatic Covid-19."
+<br> Alternativement, un simple coup d'oeil au [résumé de l'article](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30389-8/fulltext) permet de vérifier que l'information donnée dans le tableau est correcte: "HCQ, with or without AZ, is highly unlikely to result in meaningful benefit in patients with mild or asymptomatic Covid-19."
 
 >  _une des études, la Boulware, montre clairement une amélioration de 17%, quand on l’analyse. Sur votre lien, cela n'est pas indiqué._
 
@@ -46,7 +46,7 @@ Les références des études synthétisées sont bien données sur la page https
  
  >  _parce qu'une étude observationnelle de sciensano (pourtant officielle et acceptée par les pairs) ne vous convient pas, elle n'est pas valable..._
 
-Je n'ai pas dit qu'elle n'était pas valable, mais seulement que les études observationnelles sont en général moins fiables que les essais cliniques randomisés car intrinsèquement biaisées  (comme expliqué notamment [ici](remedes_faq/#obs-bias): Q6). Si vous avez des arguments précis en sens contraire, n'hésitez pas à les expliciter.
+Je n'ai pas dit qu'elle n'était pas valable, mais seulement que les études observationnelles sont en général moins fiables que les essais cliniques randomisés car intrinsèquement biaisées  (comme expliqué notamment [ici](remedes_faq/#obs-bias): Q6). Si vous avez des arguments précis en sens contraire, merci de les expliciter.
 
 > _www.hcqmeta.com est tellement intellectuellement honnête qu'ils n'ont même pas pris les études faites pas L'IHU ou celle de sciensano, qui sont pourtant positives._
 
