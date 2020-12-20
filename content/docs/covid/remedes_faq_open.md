@@ -1,6 +1,7 @@
 ---
 title: Remèdes (F.A.Q.)
-weight: 3
+bookHidden: true
+weight: 4
 ---
 
 ## **La saga HCQ**
@@ -66,7 +67,7 @@ Dans le cas de la controverse sur l'HCQ, une telle analyse penche clairement en 
 </details>
 
 <p>
-<details id="etudesraoult">
+<details id="etudesraoult" open>
   <summary>5. Quels sont les éléments montrant que les études sur l'HCQ de Raoult et son équipe ne sont pas fiables?</summary>
 
 La plupart des biais que comportent ces études sont compréhensibles sans formation scientifique poussée; en voici les principaux.
@@ -96,7 +97,7 @@ On notera par ailleurs qu'en 2006, suite à la mise à jour de [manipulation de 
 </details>
 
 <p>
-<details id="obs-bias">
+<details id="obs-bias" open>
   <summary >6. Comment peut-on dire que l'HCQ est inefficace alors que plusieurs études (autres que celles de Raoult et son équipe) concluent à son efficacité?</summary>
 
 La plupart des études concluant à l'efficacité de l'HCQ sont des études dites observationnelles[^defobs], dans lesquelles rien n'a été fait a priori pour assurer la comparabilité entre le groupe soumis au traitement et le groupe non soumis au traitement. En particulier, les deux groupes ont généralement des caractéristiques différentes en termes d'âge, de sexe, de comorbidités (facteurs de risque préalables pour la maladie), d'état clinique au démarrage du traitement,...
@@ -109,7 +110,7 @@ Les études portant sur des essais contrôlés randomisés (ECR) sont, en géné
 On vérifie généralement à l'issue du tirage au sort si l'équilibre entre les groupes est effectivement atteint pour les facteurs de risque connus (voir par exemple [cette table](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2020/nejm_2020.383.issue-21/nejmoa2022926/20201113/images/img_xlarge/nejmoa2022926_t1.jpeg) pour l'essai contrôlé randomisé RECOVERY sur l'HCQ). 
 Lorsque ce n'est pas le cas, on peut, comme pour les études observationnelles, utilser des méthodes mathématiques pour essayer de corriger *a posteriori* les biais de confusion.
 
-Les essais contrôlés randomisés de grande envergure qui ont été menés pour évaluer différents traitements potentiels de la covid-19, [RECOVERY](https://www.nejm.org/doi/10.1056/NEJMoa2022926) et [WHO Solidarity](https://www.nejm.org/doi/full/10.1056/NEJMoa2023184), ont conclu à l'inefficacité de l'HCQ. Une méta-analyse qui portait sur une majorité d'études observationnelles (car il y avait peu de résultats d'ECR disponibles au moment où ce travail a été réalisé), a abouti aux [mêmes conclusions](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext). D'autres méta-analyses, comportant un plus grand nombre d'ECR, ont corroborré ces résultats[^refmetaan]. En fait, la plupart des ECR publiés aujourd'hui concluent individuellement à l'absence d'effet significatif de l'HCQ (voir par exemple [ce tableau](https://public.tableau.com/profile/publichealth#!/vizhome/SynthsehydroxychloroquineetCOVID-19/Histoire1)), de sorte qu'il n'est plus nécessaire de réaliser de méta-analyse pour trancher.
+Les essais contrôlés randomisés de grande envergure qui ont été menés pour évaluer différents traitements potentiels de la covid-19, [RECOVERY](https://www.nejm.org/doi/10.1056/NEJMoa2022926) et [WHO Solidarity](https://www.nejm.org/doi/full/10.1056/NEJMoa2023184), ont conclu à l'inefficacité de l'HCQ. Une méta-analyse qui portait sur une majorité d'études observationnelles (car il y avait peu de résultats d'ECR disponibles au moment où ce travail a été réalisé), a abouti aux [mêmes conclusions](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30505-X/fulltext). D'autres méta-analyses, comportant un plus grand nombre d'ECR, ont depuis corroborré ces résultats[^refmetaan].
 C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'HCQ.
 
 [^defobs]: On parle d'étude observationnelle lorsque les auteurs de l'analyse sont étrangers (ou en tout cas, se déclarent étrangers) au processus d'affectation des patients aux différents groupes étudiés.
@@ -120,11 +121,10 @@ C'est pour ces raisons que les spécialistes concluent à l'inefficacité de l'H
 
 [^refmetaan]: Par exemple ces deux méta-analyses: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003293 et https://www.medrxiv.org/content/10.1101/2020.09.16.20194571v2.full.pdf
 
-
 </details>
 
 <p>
-<details id="hcqmeta">
+<details id="hcqmeta" open>
   <summary>7. Qu'en est-il de la très vaste synthèse d'études décrite sur la page HCQmeta.com?</summary>
 
 Il y a essentiellement deux raisons de ne pas faire confiance aux informations rapportées sur cette page (en suivant une démarche de "pensée critique à deux vitesses" telle que décrite [ici](https://www.youtube.com/watch?v=eLLIm-GpJh4)).
@@ -134,8 +134,8 @@ La première (qui ne nécessite pas de connaissance particulière du sujet) est 
 La deuxième raison (qui repose sur les notions discutées dans la question précédente) est que cette page n'est qu'un simulacre de méta-analyse[^def-meta-an]. En effet, elle inclut un grand nombre d'études non valides, car comportant des biais critiques (cf. la question précédente).
 En outre, même si elle n'incluait que des études avec des biais tolérables, 
 la mesure d'efficacité de l'HCQ qu'elle donne n'a aucun sens, car elle mélange des données relatives à des indicateurs différents (proportions de décès, de patients avec tests PCR positifs, de personnes hospitalisées,...) mesurés à des moments différents après le début du traitement. Aucune information n'est donnée quant au poids accordé aux différents indicateurs et aux différentes études dans le calcul de la mesure globale d'efficacité.
-C'est un peu comme si on disait que manger du chocolat améliore notre état général de 15% parce qu'en moyenne, il améliore l'humeur de 30% et augmente le poids de 10%, sans préciser quelle importance a été donnée à chacune des variables dans l'estimation globale de l'effet, et sans que les deux variables aient été mesurées au même moment chez tous les individus. <br>
-Une méta-analyse valide porte sur un indicateur à la fois, et le poids accordé aux différents études sur le sujet est une fonction bien définie de la dispersion des résultats autour de la moyenne (un choix fréquent est de donner un [poids inversément proportionnel à la variance des résultats](https://training.cochrane.org/handbook/current/chapter-10#section-10-3)).
+C'est un peu comme si on disait que manger du chocolat améliore notre état général de 15% parce qu'en moyenne, il améliore l'humeur de 30% et augmente le poids de 10%, sans que ces deux variables aient été mesurées au même moment chez tous les individus et sans préciser quelle importance a été donnée à chacune dans l'estimation globale de l'effet. <br>
+Une méta-analyse valide porte sur un indicateur à la fois, et le poids accordé aux différents études sur le sujet est fonction de la dispersion des résultats autour de la moyenne (un choix fréquent est de donner un [poids inversément proportionnel à la variance des résultats](https://training.cochrane.org/handbook/current/chapter-10#section-10-3)).
 
 [^feedbackhcq]: Le formulaire en bas de page n'offre pas, comme cela est généralement le cas, la possibilité d'être recontacté par email pour avoir réponse à ses questions.
  

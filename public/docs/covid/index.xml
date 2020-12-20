@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>Remèdes (F.A.Q.)</title>
+      <link>https://cogid.netlify.app/docs/covid/remedes_faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/remedes_faq/</guid>
+      <description>La saga HCQ #  La controverse au sujet de l&amp;rsquo;efficacité de l&amp;rsquo;hydroxychloroquine (HCQ) comme traitement du covid-19 n&amp;rsquo;aura échappé à personne. Si, au vu des études publiées à l&amp;rsquo;heure actuelle, la plupart des spécialistes concluent à son inefficacité1, D. Raoult et ses collaborateurs continuent à contester la validité des études amenant à ces conclusions2. Par ailleurs, quelques pages web, dont les auteurs ne sont pas déclarés, affirment (en s&amp;rsquo;appuyant en apparence sur de nombreuses études) que l&amp;rsquo;HCQ est bien un remède efficace3.</description>
+    </item>
+    
+    <item>
       <title>HCQ et al.</title>
       <link>https://cogid.netlify.app/docs/covid/hcq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,6 +32,18 @@
       <guid>https://cogid.netlify.app/docs/covid/hcq/</guid>
       <description>HCQ et al. #  Alors que la plupart des chercheurs spécialistes de ce domaine considèrent cette controverse comme éteinte - la majorité des études rigoureuses montrant une absence d&amp;rsquo;effet ou un effet délétère de l&amp;rsquo;HCQ sur l&amp;rsquo;évolution de la maladie1 -, elle fait encore beaucoup de bruit sur les réseaux sociaux, notamment via la diffusion de pages telles que: HCQmeta.
 Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroquine (HCQ) est efficace, du moins lorsqu&amp;rsquo;elle est utilisée &amp;ldquo;tôt&amp;rdquo; dans le traitement de la maladie.</description>
+    </item>
+    
+    <item>
+      <title>HCQ et al.</title>
+      <link>https://cogid.netlify.app/docs/covid/hcqmeta2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/hcqmeta2/</guid>
+      <description>Réponse à FD #   Les informations sont sourcées sur www.hcqmeta.com (258 références) contre une dizaine seulement sur votre page.
+ J&amp;rsquo;ai sans doute mal exprimé ce que je voulais dire: vous pouvez aller vérifier que t
+ Votre FAQ n&amp;rsquo;explique pas pourquoi hcqmeta serait frauduleuse, vous y donnez juste votre opinion en choisissant les études qui vous conviennent.
+ </description>
     </item>
     
     <item>
@@ -45,10 +66,10 @@ Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroqu
     
     <item>
       <title>Remèdes (F.A.Q.)</title>
-      <link>https://cogid.netlify.app/docs/covid/remedes_faq/</link>
+      <link>https://cogid.netlify.app/docs/covid/remedes_faq_open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cogid.netlify.app/docs/covid/remedes_faq/</guid>
+      <guid>https://cogid.netlify.app/docs/covid/remedes_faq_open/</guid>
       <description>La saga HCQ #  La controverse au sujet de l&amp;rsquo;efficacité de l&amp;rsquo;hydroxychloroquine (HCQ) comme traitement du covid-19 n&amp;rsquo;aura échappé à personne. Si, au vu des études publiées à l&amp;rsquo;heure actuelle, la plupart des spécialistes concluent à son inefficacité1, D. Raoult et ses collaborateurs continuent à contester la validité des études amenant à ces conclusions2. Par ailleurs, quelques pages web, dont les auteurs ne sont pas déclarés, affirment (en s&amp;rsquo;appuyant en apparence sur de nombreuses études) que l&amp;rsquo;HCQ est bien un remède efficace3.</description>
     </item>
     
@@ -77,6 +98,28 @@ Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroqu
       
       <guid>https://cogid.netlify.app/docs/covid/dynexp/</guid>
       <description>La dynamique d&amp;rsquo;une épidémie est-elle réellement exponentielle? #  </description>
+    </item>
+    
+    <item>
+      <title>HCQ et al.</title>
+      <link>https://cogid.netlify.app/docs/covid/hcqmeta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/hcqmeta/</guid>
+      <description>Réponse à DV #   10 des 12 études reprises sur ce document ont en effet été étudiées aussi dans la plus importante meta-analyse (166 études analysées à ce jour sur hcqmeta ). Meta-analyse où tout est aussi référencé
+ Cette page ne constitue PAS une méta-analyse, comme expliqué par de nombreuses sources scientifiques: par exemple ici, ici et ici. Les arguments principaux sont:
+ S&amp;rsquo;il s&amp;rsquo;agissait d&amp;rsquo;une véritable méta-analyse, elle serait au moins publiée sur une plateforme scientifique d&amp;rsquo;accès libre telle que MedRxiv, ou elle s&amp;rsquo;exposerait aux critiques par les pairs sur pubpeer; Une méta-analyse est loin d&amp;rsquo;être une simple &amp;ldquo;moyenne&amp;rdquo; de tous les résultats disponibles sur un sujet, car beaucoup ne sont pas comparables (une bonne introduction à la méthodologie des méta-analyses est donnée dans cette vidéo); Parmi les études favorables référées sur cette page, bon nombre sont biaisées, en ce sens que le groupe contrôle (non traité) n&amp;rsquo;est PAS comparable au groupe qui a reçu le traitement HCQ.</description>
+    </item>
+    
+    <item>
+      <title>HCQ et al.</title>
+      <link>https://cogid.netlify.app/docs/covid/hcqmetav0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/hcqmetav0/</guid>
+      <description>Réponse à DV #   10 des 12 études reprises sur ce document ont en effet été étudiées aussi dans la plus importante meta-analyse (166 études analysées à ce jour sur hcqmeta ). Meta-analyse où tout est aussi référencé
+ Cette page ne constitue PAS une méta-analyse, comme expliqué par de nombreuses sources scientifiques: par exemple ici, ici et ici. Les arguments principaux sont:
+ S&amp;rsquo;il s&amp;rsquo;agissait d&amp;rsquo;une véritable méta-analyse, elle serait au moins publiée sur une plateforme scientifique d&amp;rsquo;accès libre telle que MedRxiv, ou elle s&amp;rsquo;exposerait aux critiques par les pairs sur pubpeer; Une méta-analyse est loin d&amp;rsquo;être une simple &amp;ldquo;moyenne&amp;rdquo; de tous les résultats disponibles sur un sujet, car beaucoup ne sont pas comparables (une bonne introduction à la méthodologie des méta-analyses est donnée dans cette vidéo); Parmi les études favorables référées sur cette page, bon nombre sont biaisées, en ce sens que le groupe contrôle (non traité) n&amp;rsquo;est PAS comparable au groupe qui a reçu le traitement HCQ.</description>
     </item>
     
   </channel>
