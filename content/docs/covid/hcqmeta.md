@@ -1,7 +1,7 @@
 ---
-title: HCQmeta
-bookHidden: true
-weight: 10
+title: HCQmeta.com
+bookHidden: false
+weight: 4
 ---
 
 ## **Pourquoi les résultats présentés sur la page hcqmeta.com ne sont-ils pas fiables?**

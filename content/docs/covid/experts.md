@@ -1,5 +1,6 @@
 ---
 title: Les "experts"
+bookHidden: true
 weight: 5
 ---
 
