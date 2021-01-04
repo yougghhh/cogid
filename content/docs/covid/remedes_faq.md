@@ -177,7 +177,7 @@ Enfin, il est ironique de noter que certains sympathisants de D. Raoult, tels qu
 </details>
 
 <p>
-<details id="ecr-vs-obs">
+<details id="ecr-vs-obs" open>
   <summary>10. N'existe-t-il pas des circonstances où une étude observationnelle est préférable à un essai contrôlé randomisé (ECR)?</summary>
 
 Oui, lorsqu'il n'est pas possible d'effectuer un ECR pour des raisons éthiques[^ethiqueECR]. Un des exemples les plus connus est l'étude des effets du tabac sur la santé. On n'a évidemment jamais imposé à un groupe d'individus de fumer une certaine quantité de tabac par jour pour étudier ses effets; on a à la place comparé des populations de fumeurs (déjà "pratiquants") à des populations de non-fumeurs avec des caractéristiques aussi similaires que possible (voir par exemple [cette vidéo](](https://www.youtube.com/watch?v=aqMyngADnMU))).
@@ -190,9 +190,9 @@ La plupart des autres limitations des ECR... sont aussi valables pour les étude
 
 * La durée de l'étude: par construction, une étude ne permet d'étudier que les effets se produisant endéans la durée du suivi des individus. En particulier, des effets secondaires de long terme ne pourront être mis en évidence par une étude de court terme, quelle que soit sa nature (observationnelle ou ECR). 
 
-* L'utilisation de "big data": seul un grand nombre de participants, de caractéristiques variées, peut garantir que les résultats d'une étude soit valable en dehors de l'échantillon de population étudié. Il n'est jamais vrai qu'un échantillon de petite taille permet de mieux mettre en évidence un effet; il est seulement vrai que si l'effet d'un traitement est très grand, il sera déjà visible ("statistiquement significatif") dans un échantillon de population de petite taille. Plusieurs des études observationnelles mises en avant par Raoult *et al.* pour défendre l'efficacité de l'HCQ portaient sur de grandes populations de patients réparties sur de multiples hôpitaux, et peuvent donc tout autant être qualifiées de "big data" que les essais Recovery et Solidarity[^etudes-belge-ital].
+* L'utilisation de "big data": seul un grand nombre de participants, de caractéristiques variées, peut garantir que les résultats d'une étude soit valable en dehors de l'échantillon de population étudié. Il n'est jamais vrai qu'un échantillon de petite taille permet de mieux mettre en évidence un effet; il est seulement vrai que si l'effet d'un traitement est très grand, il sera déjà visible ("statistiquement significatif") dans un échantillon de population de petite taille. Plusieurs des études observationnelles mises en avant par Raoult & co pour défendre l'efficacité de l'HCQ portaient sur de grandes populations de patients réparties sur de multiples hôpitaux, et peuvent donc tout autant être qualifiées d'études "big data" que les essais Recovery et Solidarity[^etudes-belge-ital].
 
-En bref, une étude observationnelle bien conçue (pour minimiser les biais intrinsèques à ce type d'étude, cf. plus haut) ne fera au mieux que s'approcher de l'essai contrôlé randomisé qui n'a pu être réalisé en lieu et place de celle-ci. C'est pour cela que, en dehors des périodes de crise telles que celle-ci, on n'évalue jamais l'efficacité d'un médicament au moyen d'études observationnelles.
+En bref, une étude observationnelle bien conçue (pour minimiser les biais intrinsèques à ce type d'étude, cf. Q6) ne fera au mieux que s'approcher de l'essai contrôlé randomisé qui n'a pu être réalisé en lieu et place de celle-ci. C'est pour cela que, en temps normal, on n'évalue jamais l'efficacité d'un médicament au moyen d'études observationnelles.
 
 [^etudes-belge-ital]: En particulier, ces deux études (respectivement belge et italienne): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7444610/ et https://www.ejinme.com/article/S0953-6205(20)30335-6/fulltext
 

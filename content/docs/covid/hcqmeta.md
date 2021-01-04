@@ -19,14 +19,16 @@ Mais avant de développer ces critiques, il est utile de s'attarder sur une des 
 
 Cette affirmation fait référence aux figures ci-dessous (figures 1A et 1B dans la [version du 27/12/2020 de la page](https://archive.vn/SGefy)), qui semblent montrer que toutes les études portant sur un traitement "précoce" par HCQ concluent à un effet positif ("lower risk", en vert):
 
-![Figure 1A](../hcqmeta1A.svg)
-![Figure 1B](../hcqmeta1B.svg)
+![Figure 1AB](../hcqmeta1A1B.png)
 
 
-Or, un effet moyen n'a aucun sens à lui seul du point de vue statistique. En effet, si la dispersion des résultats autour de la moyenne est grande - ce qui se traduit, dans la [figure 5](https://archive.vn/SGefy/ee4763ee85d4afbfafe152f89df1fbcd15bb3ef6.svg) (trop grande pour être reproduite ici), par le fait que l'intervalle de confiance autour du risque relatif moyen (symbole carré) comprend la valeur 1 -, cela signifie qu'on ne peut écarter la possibilité que l'effet positif observé en moyenne est du au hasard: on dit que le résultat est _statistiquement non-significatif_ [^signifstat]. 
-Ainsi, les graphiques ci-dessus (de même que ceux montrés dans les figures similaires de la page) n'ont aucun sens en eux-mêmes. Et si on examine les intervalles de confiance correspondants dans la [figure 5](https://archive.vn/SGefy/ee4763ee85d4afbfafe152f89df1fbcd15bb3ef6.svg), on voit que bon nombre des résultats montrés sont statistiquement non significatifs. Parler d'effet positif ou négatif de l'HCQ n'a donc pas de sens pour ces résultats... 
+Cependant, ce qui est représenté (par un point en A, par un bâtonnet en B) est un effet moyen, qui n'a aucun sens à lui seul du point de vue statistique. En effet, si la dispersion des résultats autour de la moyenne est grande - ce qui se traduit, dans la figure ci-dessous (partie supérieure de la [figure 5](https://archive.vn/SGefy/ee4763ee85d4afbfafe152f89df1fbcd15bb3ef6.svg) de hcqmeta.com), par le fait que l'intervalle de confiance autour du risque relatif moyen comprend la valeur 1 (ligne verticale en milieu de figure), cela signifie qu'on ne peut écarter la possibilité que l'effet positif observé en moyenne est du au hasard: on dit que le résultat est _statistiquement non-significatif_ [^signifstat]. 
 
-Hélas, bon nombre des résultats _en apparence_ statistiquement significatifs dans la figure 5 de hcqmeta.com n'ont pas de sens non plus, comme nous l'expliquons maintenant.
+![Figure 5 (early)](../hcqmeta5early.png)
+
+Ainsi, les graphiques A et B ci-dessus (de même que toutes les figures similaires sur hcqmeta.com) n'ont aucun sens en eux-mêmes. Et si on examine les intervalles de confiance correspondants dans la figure en dessous, on voit que bon nombre des résultats montrés sont statistiquement non significatifs. Parler d'effet positif ou négatif de l'HCQ n'a donc pas de sens pour ces résultats... 
+
+Hélas, bon nombre des résultats _en apparence_ statistiquement significatifs sur hcqmeta.com n'ont pas de sens non plus, comme nous l'expliquons maintenant.
 
 [^signifstat]: Plus exactement, le résultat est statistiquement non significatif au seuil de 5% (seuil utilisé dans la plupart des études scientifiques), et l'intervalle de confiance correspondant contient la vraie valeur moyenne de l'effet avec une probabilité de 95% (...si les hypothèses sous-jacentes au test statistique sont respectées).
 
@@ -38,9 +40,10 @@ Plusieurs des études incluses dans les analyses de hcqmeta.com présentent de g
 Ainsi, non seulement le groupe "non traité"  est hétérogène, mais il inclut tous les patients ayant supporté le traitement moins de 3 jours, ce qui fait augmenter [indûment le pourcentage de mortalité dans ce groupe](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30613-3/fulltext).
 Ce biais dit de "période d'immortalité" rend les résultats de l'étude invalides. En effet, accepteriez-vous de prendre un vaccin si les études concluant à son efficacité avait écarté des résultats tous les patients présentant des effets secondaires graves? Ici, c'est encore pire, puisque les patients ayant mal supporté le traitement, non seulement ne sont pas compatibilisés dans le groupe traité, mais sont comptabilisés dans le groupe contrôle... C'est comme si on avait comptabilisé les patients développant des effets secondaires graves suite à une vaccination dans le groupe n'ayant pas reçu le vaccin!
 
-D'autres études présentées comme significatives sur hcqmeta.com présentent des biais similaires (cf. [plus bas](hcqmeta/#fig-morta)). Et si toutes les études (en apparence) favorables à l'HCQ ne présentent pas des biais aussi graves, la plupart d'entre elles sont des études observationnelles qui, contrairement aux essais contrôlés randomisés (ECR), présentent des biais intrinsèques auxquels on ne peut jamais remédier que partiellement par traitement des données a posteriori (voir [ici](remedes_faq/#obs-bias) pour plus de détails).
 
-Les figures 6 et 7 de la page hcqmeta.com présentent bien des [résultats limités aux ECR](https://archive.vn/SGefy#rct) (RCT en anglais), mais ils n'ont aucun sens en raison de l'hétérogénéité des données utilisées (cf. section suivante). On peut également remarquer que même en faisant cet amalgame injustifié, l'effet global obtenu est statistiquement non signicatif ([Table 2](https://archive.vn/SGefy#table_positivestats2), dernière colonne, 1ere ligne) à moins d'exclure certaines études classées par les auteurs comme "traitement tardif" (2e ligne). 
+D'autres études présentées comme significatives sur hcqmeta.com présentent des biais similaires (cf. [plus bas](hcqmeta/#fig-morta)). Et si toutes les études (en apparence) favorables à l'HCQ ne présentent pas des biais aussi graves, la plupart d'entre elles sont des études observationnelles qui, contrairement aux essais contrôlés randomisés (ECR), présentent des biais intrinsèques (déséquilibres entre les deux groupes comparés) auxquels on ne peut jamais remédier que partiellement par traitement des données a posteriori (voir [ici](remedes_faq/#obs-bias) pour plus de détails).
+
+Les figures 6 et 7 de la page hcqmeta.com présentent bien des [résultats limités aux ECR](https://archive.vn/SGefy#rct) (RCT en anglais), mais ils n'ont aucun sens en raison de l'hétérogénéité des données utilisées, comme expliqué dans la section suivante. On peut également remarquer que même en faisant cet amalgame injustifié, l'effet global obtenu est statistiquement non signicatif ([Table 2](https://archive.vn/SGefy#table_positivestats2), dernière colonne, 1ere ligne) à moins d'exclure certaines études classées par les auteurs comme "traitement tardif" (2e ligne). Et les deux seules études (Huang et al. et Chen et al.) rapportant un effet statistiquement significatif parmi ces derniers ECR présentent de graves problèmes méthodologiques, comme expliqué [ici](https://www.sciencesetavenir.fr/sante/covid-19-quelle-est-la-meta-analyse-dont-parle-le-documentaire-mal-traites_150257).
 
 
 ### **2. L'hétérogénéité des effets comparés**
@@ -56,7 +59,7 @@ Cependant, les études rapportant un effet positif statistiquement significatif 
 
 ![Figure mortalité](../fig10early.png)
 
-Or:
+Cependant:
 
 * L'étude de [Lagier et al.](https://www.sciencedirect.com/science/article/pii/S1477893920302817) est gravement biaisée, comme expliqué dans la [section 1](hcqmeta/#1-les-biais-des-%c3%a9tudes-incluses) (plus de détails sont donnés [ici](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30613-3/fulltext));
 * L'étude de [Ly et al.](https://www.sciencedirect.com/science/article/pii/S0924857920304301) (également réalisée par l'équipe du professeur Raoult) porte uniquement sur des résidents en EPHAD à Marseille (moyenne d'âge: 83 ans), et présente le même biais critique de "période d'immortalité" que l'étude de Lagier et al.
@@ -66,7 +69,7 @@ Or:
 
 En conclusion, aucune des études rapportant un effet statistiquement significatif de l'HCQ en traitement précoce n'est fiable. Il est donc totalement injustifié d'en conclure à une amélioration globale de 77% de l'incidence de la mortalité comme le fait la figure ci-dessus (qui plus est, sans spécifier le poids accordé aux différentes études pour parvenir à ce résultat global).
 
-Nous laissons au lecteur intéressé le soin de répéter l'exercice pour les résultats relatifs aux autres modalités d'administration de l'HCQ - en gardant à l'esprit que la plupart des études présentées sur hcqmeta.com, même lorsqu'elles ne présentent _en apparence_ pas de biais grave, sont des études observationnelles dont la fiabilité est généralement très inférieure à celle d'un ECR (cf. plus haut et [ici](remedes_faq/#ecr-vs-obs)). On peut d'ailleurs se demander pourquoi les auteurs n'ont pas réalisé le même type de "méta-analyse", examinant un seul indicateur d'efficacité du traitement à la fois, en se limitant aux résultats des seuls ECR? Peut-être parce qu'ils auraient obtenu la figure suivante (reproduite de la [synthèse de tous les ECR publiés réalisée ici](https://public.tableau.com/profile/publichealth#!/vizhome/SynthsehydroxychloroquineetCOVID-19/Histoire1))?
+Nous laissons au lecteur intéressé le soin de répéter l'exercice pour les résultats relatifs aux autres modalités d'administration de l'HCQ - en gardant à l'esprit que la plupart des études présentées sur hcqmeta.com, même lorsqu'elles ne présentent _en apparence_ pas de biais grave, sont des études observationnelles dont la fiabilité est généralement très inférieure à celle d'un ECR (cf. [ici](remedes_faq/#obs-bias)  et [ici](remedes_faq/#ecr-vs-obs)). On peut d'ailleurs se demander pourquoi les auteurs n'ont pas réalisé le même type de "méta-analyse", considérant un seul indicateur d'efficacité du traitement à la fois, en se limitant aux résultats des seuls ECR. Peut-être parce qu'ils auraient alors obtenu la figure suivante (reproduite de la [synthèse de tous les ECR publiés réalisée ici](https://public.tableau.com/profile/publichealth#!/vizhome/SynthsehydroxychloroquineetCOVID-19/Histoire1))?
 
 [![Synthèse Fiolet](../syntheseECR-HCQ.png)](https://public.tableau.com/profile/publichealth#!/vizhome/SynthsehydroxychloroquineetCOVID-19/Histoire1)
 
