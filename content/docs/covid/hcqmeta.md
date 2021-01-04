@@ -45,7 +45,7 @@ Les figures 6 et 7 de la page hcqmeta.com présentent bien des [résultats limit
 
 ### **2. L'hétérogénéité des effets comparés**
 
-La plupart des figures (à l'exception de la figure 10, que nous discutons ci-après) amalgament des données relatives à des mesures différentes de l'état des patients: des risques relatifs (RR) de décès, de test PCR positif, d'hospitalisation,...
+La plupart des figures (à l'exception de la figure 10, que nous discutons ci-après) amalgament des données relatives à des mesures différentes de l'efficacité du traitement: des risques relatifs (RR) de décès, de test PCR positif, d'hospitalisation,...
 ce qui n'a aucun sens du point de vue quantitatif. C'est un peu comme si on disait que manger du chocolat améliore notre état général de 15% parce qu'en moyenne, il améliore l'humeur de 30% et augmente le poids de 10%. Sur quelle base pouvons-nous combiner ces deux informations, et quel poids est-il légitime de donner à chacune pour arriver à une mesure globale de l'effet? Les auteurs de la page ne répondent pas à ces questions fondamentales.
 
 #### **Analyse de la figure présentant des données "homogènes"**
@@ -66,7 +66,9 @@ Or:
 
 En conclusion, aucune des études rapportant un effet statistiquement significatif de l'HCQ en traitement précoce n'est fiable. Il est donc totalement injustifié d'en conclure à une amélioration globale de 77% de l'incidence de la mortalité comme le fait la figure ci-dessus (qui plus est, sans spécifier le poids accordé aux différentes études pour parvenir à ce résultat global).
 
-Nous laissons au lecteur intéressé le soin de répéter l'exercice pour les résultats relatifs aux autres modalités d'administration de l'HCQ - en gardant à l'esprit que la plupart des études présentées sur hcqmeta.com, même lorsqu'elles ne présentent _en apparence_ pas de biais grave, sont des études observationnelles dont la fiabilité est généralement très inférieure à celle d'un ECR (cf. plus haut et [ici](remedes_faq/#ecr-vs-obs)).
+Nous laissons au lecteur intéressé le soin de répéter l'exercice pour les résultats relatifs aux autres modalités d'administration de l'HCQ - en gardant à l'esprit que la plupart des études présentées sur hcqmeta.com, même lorsqu'elles ne présentent _en apparence_ pas de biais grave, sont des études observationnelles dont la fiabilité est généralement très inférieure à celle d'un ECR (cf. plus haut et [ici](remedes_faq/#ecr-vs-obs)). On peut d'ailleurs se demander pourquoi les auteurs n'ont pas réalisé le même type de "méta-analyse", examinant un seul indicateur d'efficacité du traitement à la fois, en se limitant aux résultats des seuls ECR? Peut-être parce qu'ils auraient obtenu la figure suivante (reproduite de la [synthèse de tous les ECR publiés réalisée ici](https://public.tableau.com/profile/publichealth#!/vizhome/SynthsehydroxychloroquineetCOVID-19/Histoire1))?
 
-Nous laissons également au lecteur le soin de conclure quant à la confiance à accorder aux pages soeurs de hcqmeta.com (https://hcqtrial.com, https://c19study.com,...), en particulier à [celle affirmant l'efficacité de l'ivermectine](https://c19ivermectin.com/) - molécule en passe de devenir [la nouvelle HCQ](https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html)...
+[![Synthèse Fiolet](../syntheseECR-HCQ.png)](https://public.tableau.com/profile/publichealth#!/vizhome/SynthsehydroxychloroquineetCOVID-19/Histoire1)
+
+Nous laissons enfin au lecteur le soin de conclure quant à la confiance à accorder aux pages soeurs de hcqmeta.com (https://hcqtrial.com, https://c19study.com,...), en particulier à [celle affirmant l'efficacité de l'ivermectine](https://c19ivermectin.com/) - molécule en passe de devenir [la nouvelle HCQ](https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html)...
 
