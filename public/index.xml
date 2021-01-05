@@ -16,16 +16,6 @@
     </item>
     
     <item>
-      <title>Fiabilité des tests</title>
-      <link>https://cogid.netlify.app/docs/covid/testdiag/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cogid.netlify.app/docs/covid/testdiag/</guid>
-      <description>Les tests diagnostiques sont-ils fiables? #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la fiabilité des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
-  Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, c&amp;rsquo;est-à-dire de la proportion de personnes malades dans la population à laquelle on appartient (voir par exemple cet article d&amp;rsquo;Etienne Klein, ou ce post de blog (en anglais), parus tous deux au début de la crise sanitaire);</description>
-    </item>
-    
-    <item>
       <title>Remèdes (F.A.Q.)</title>
       <link>https://cogid.netlify.app/docs/covid/remedes_faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,15 +35,13 @@ Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroqu
     </item>
     
     <item>
-      <title>HCQ et al.</title>
-      <link>https://cogid.netlify.app/docs/covid/hcqmeta2/</link>
+      <title>HCQmeta.com</title>
+      <link>https://cogid.netlify.app/docs/covid/hcqmeta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cogid.netlify.app/docs/covid/hcqmeta2/</guid>
-      <description>Réponse à FD #   Les informations sont sourcées sur www.hcqmeta.com (258 références) contre une dizaine seulement sur votre page.
- J&amp;rsquo;ai sans doute mal exprimé ce que je voulais dire: vous pouvez aller vérifier que t
- Votre FAQ n&amp;rsquo;explique pas pourquoi hcqmeta serait frauduleuse, vous y donnez juste votre opinion en choisissant les études qui vous conviennent.
- </description>
+      <guid>https://cogid.netlify.app/docs/covid/hcqmeta/</guid>
+      <description>Pourquoi les résultats présentés sur la page hcqmeta.com ne sont-ils pas fiables? #  La page hcqmeta.com prétend rapporter les résultats d&amp;rsquo;une méta-analyse, càd une synthèse statistique d&amp;rsquo;un ensemble d&amp;rsquo;études scientifiques sur un sujet donné - en l&amp;rsquo;occurence, l&amp;rsquo;efficacité de l&amp;rsquo;HCQ comme traitement de la covid-19. Pour avoir un sens, un telle synthèse doit porter sur des études comparables, ce qui signifie avant tout1:
+ que les études incluses doivent être valides, càd ne pas présenter de biais graves; qu&amp;rsquo;elles mesurent la même chose.</description>
     </item>
     
     <item>
@@ -84,6 +72,16 @@ Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroqu
     </item>
     
     <item>
+      <title>Fiabilité des tests</title>
+      <link>https://cogid.netlify.app/docs/covid/testdiag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogid.netlify.app/docs/covid/testdiag/</guid>
+      <description>Les tests diagnostiques sont-ils fiables? #  Vous avez peut-être vu passer sur le web des articles et/ou vidéos mettant en garde contre la fiabilité des tests utilisés pour le diagnostic du covid-19. Ces mises en garde sont de deux types:
+  Celles attirant l&amp;rsquo;attention sur le fait que la confiance qu&amp;rsquo;on peut accorder au résultat d&amp;rsquo;un test dépend de la prévalence de la maladie, c&amp;rsquo;est-à-dire de la proportion de personnes malades dans la population à laquelle on appartient (voir par exemple cet article d&amp;rsquo;Etienne Klein, ou ce post de blog (en anglais), parus tous deux au début de la crise sanitaire);</description>
+    </item>
+    
+    <item>
       <title>Les &#34;experts&#34;</title>
       <link>https://cogid.netlify.app/docs/covid/experts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,43 +91,12 @@ Cette page affirme que le traitement du covid-19 par l&amp;rsquo;hydroxychloroqu
     </item>
     
     <item>
-      <title>Remèdes</title>
-      <link>https://cogid.netlify.app/docs/covid/remedes_draft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cogid.netlify.app/docs/covid/remedes_draft/</guid>
-      <description>La controverse au sujet de l&amp;rsquo;efficacité de l&amp;rsquo;hydroxychloroquine (HCQ) comme traitement du covid-19 n&amp;rsquo;aura échappé à personne. Si, au vu des études publiées à l&amp;rsquo;heure actuelle, la plupart des spécialistes concluent à son inefficacité [ref lettre CMI Paul], D. Raoult et ses collègues continue à contester la validité des études amenant à ces conclusions [ref lettre CMI Raoult]. Par ailleurs, quelques pages web dont les auteurs dissimulent leur identité, affirment (en se basant en apparence sur de multiples études) que l&amp;rsquo;HCQ est bien un remède efficace [ref hcqmeta,&amp;hellip;].</description>
-    </item>
-    
-    <item>
       <title>Exponentielle</title>
       <link>https://cogid.netlify.app/docs/covid/dynexp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cogid.netlify.app/docs/covid/dynexp/</guid>
       <description>La dynamique d&amp;rsquo;une épidémie est-elle réellement exponentielle? #  </description>
-    </item>
-    
-    <item>
-      <title>HCQ et al.</title>
-      <link>https://cogid.netlify.app/docs/covid/hcqmeta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cogid.netlify.app/docs/covid/hcqmeta/</guid>
-      <description>Réponse à DV #   10 des 12 études reprises sur ce document ont en effet été étudiées aussi dans la plus importante meta-analyse (166 études analysées à ce jour sur hcqmeta ). Meta-analyse où tout est aussi référencé
- Cette page ne constitue PAS une méta-analyse, comme expliqué par de nombreuses sources scientifiques: par exemple ici, ici et ici. Les arguments principaux sont:
- S&amp;rsquo;il s&amp;rsquo;agissait d&amp;rsquo;une véritable méta-analyse, elle serait au moins publiée sur une plateforme scientifique d&amp;rsquo;accès libre telle que MedRxiv, ou elle s&amp;rsquo;exposerait aux critiques par les pairs sur pubpeer; Une méta-analyse est loin d&amp;rsquo;être une simple &amp;ldquo;moyenne&amp;rdquo; de tous les résultats disponibles sur un sujet, car beaucoup ne sont pas comparables (une bonne introduction à la méthodologie des méta-analyses est donnée dans cette vidéo); Parmi les études favorables référées sur cette page, bon nombre sont biaisées, en ce sens que le groupe contrôle (non traité) n&amp;rsquo;est PAS comparable au groupe qui a reçu le traitement HCQ.</description>
-    </item>
-    
-    <item>
-      <title>HCQ et al.</title>
-      <link>https://cogid.netlify.app/docs/covid/hcqmetav0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cogid.netlify.app/docs/covid/hcqmetav0/</guid>
-      <description>Réponse à DV #   10 des 12 études reprises sur ce document ont en effet été étudiées aussi dans la plus importante meta-analyse (166 études analysées à ce jour sur hcqmeta ). Meta-analyse où tout est aussi référencé
- Cette page ne constitue PAS une méta-analyse, comme expliqué par de nombreuses sources scientifiques: par exemple ici, ici et ici. Les arguments principaux sont:
- S&amp;rsquo;il s&amp;rsquo;agissait d&amp;rsquo;une véritable méta-analyse, elle serait au moins publiée sur une plateforme scientifique d&amp;rsquo;accès libre telle que MedRxiv, ou elle s&amp;rsquo;exposerait aux critiques par les pairs sur pubpeer; Une méta-analyse est loin d&amp;rsquo;être une simple &amp;ldquo;moyenne&amp;rdquo; de tous les résultats disponibles sur un sujet, car beaucoup ne sont pas comparables (une bonne introduction à la méthodologie des méta-analyses est donnée dans cette vidéo); Parmi les études favorables référées sur cette page, bon nombre sont biaisées, en ce sens que le groupe contrôle (non traité) n&amp;rsquo;est PAS comparable au groupe qui a reçu le traitement HCQ.</description>
     </item>
     
     <item>
