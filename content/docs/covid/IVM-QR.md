@@ -18,7 +18,7 @@ Etant donné que la page vantant l'IVM est un clone de la page vantant HCQ, il n
 
 Cette ""méta-analyse"", est debunkée ici: https://twitter.com/zchagla/status/1345853424827588611
 Vous trouverez également des commentaires moins techniques et en français sur les trois études "significatives" de la figure de Hill ici: https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html
-Enfin, notez que "l'étude" qui apparaît la plus favorable dans ce tableau (Elgazzar) est celle dont j'ai déjà souligné un biais flagrant (les patients réagissant mal au traitement sont comptabilisés dans le groupe contrôle). Et ce papier comporte bien d'autres probèmes, dont certains sont inventoriés ici:  
+Enfin, notez que "l'étude" qui apparaît la plus favorable dans ce tableau (Elgazzar) est celle dont j'ai déjà souligné un biais flagrant (les patients réagissant mal au traitement sont comptabilisés dans le groupe contrôle). Et ce papier comporte bien d'autres probèmes, dont certains sont inventoriés ici:  https://cogid.netlify.app/docs/covid/elgazzar/
 
 > _Ou cette étude argentine par exemple?_
 
@@ -31,4 +31,5 @@ Au vu des infos ci-dessus, il semble effectivement que ces études sont, sinon f
 Quand à savoir s'il faut pousser plus loin les études sur l'IVM, la réponse semble être non. En effet, les essais _in vitro_ qui ont été menés sur l'IVM montrent qu'aux concentrations où elle a un effet anti-viral, elle est également toxique: https://opendata.ncats.nih.gov/covid19/databrowser?q=ivermectin (carré "rose" en vis-à-vis de chaque carré "vert" dans les colonnes relatives au Sars-Cov2, cf. #Alex Sam pour plus de détails). Voir aussi ici: https://www.facebook.com/may.hem.94/posts/10221911208703179 et https://twitter.com/houndcl/status/1268893729366171649
 Aussi, le mécanisme d'action mis en avant pour cette molécule apparaît peu crédible: https://www.facebook.com/may.hem.94/posts/10219698444065446 et 
 https://twitter.com/FlorianLemaitr5/status/1338162974733766660?s=20
-Et à côté de cela, il y a dans cette [base de données](https://opendata.ncats.nih.gov/covid19/databrowser) encore plusieurs candidats ne présentant pas d'effet cytotoxique qui n'ont pas encore fait l'objet d'essais cliniques
+
+A côté de cela, il y a dans cette [base de données d'essais in vitro](https://opendata.ncats.nih.gov/covid19/databrowser) plusieurs candidats ne présentant pas (comme l'IVM) d'effet cytotoxique (rechercher par exemple: etifenin,  bosentan, toltrazuril, enalapril maleate) qui n'ont pas encore fait l'objet d'essais cliniques, ou en tout cas de publications de ceux-ci (cf. Alex Sam).
