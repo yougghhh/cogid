@@ -32,4 +32,4 @@ Quand à savoir s'il faut pousser plus loin les études sur l'IVM, la réponse s
 Aussi, le mécanisme d'action mis en avant pour cette molécule apparaît peu crédible: https://www.facebook.com/may.hem.94/posts/10219698444065446 et 
 https://twitter.com/FlorianLemaitr5/status/1338162974733766660?s=20
 
-A côté de cela, il y a dans cette [base de données d'essais in vitro](https://opendata.ncats.nih.gov/covid19/databrowser) plusieurs candidats ne présentant pas (comme l'IVM) d'effet cytotoxique (rechercher par exemple: etifenin,  bosentan, toltrazuril, enalapril maleate) qui n'ont pas encore fait l'objet d'essais cliniques, ou en tout cas de publications de ceux-ci (cf. Alex Sam).
+A côté de cela, il y a dans cette [base de données d'études in vitro](https://opendata.ncats.nih.gov/covid19/databrowser) plusieurs candidats ne présentant pas (comme l'IVM) d'effet cytotoxique (rechercher par exemple: etifenin,  bosentan, toltrazuril, enalapril maleate - merci #Alex Sam :) ) dont on ne parle pas (encore, car essais cliniques dont terminés?).
