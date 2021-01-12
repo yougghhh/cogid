@@ -13,7 +13,12 @@ Quelques éléments, complémentaires à ceux répertoriés [ici](https://twitte
 > _Any patient demonstrates worsening of symptoms; radiological progression with virologically persistence within at least 7 days of the therapeutic evaluation period of the study after exclusion of cytokine storm was considered as a clinical failure and was shifted to the other management_
 
 
-* Les tables 2 et 3 de l'article, présentant les résultats après une semaine de traitement, mentionnent des "durées de conversion RT-PCR" de 10 et 12 jours de moyenne (càd supérieures à la durée du traitement);
+* Les tables 2 et 3 de l'article, présentant les résultats après une semaine de traitement, mentionnent des "durées de conversion RT-PCR" ... largement supérieures à la durée du traitement:
+
+<figure>
+  <img src="../Elgazzar_table3.png" alt="Table 3" style="width:95%">
+  <figcaption> <it> Table 3, Elgazzar et al. 2020 (preprint). </figcaption>
+</figure>
 
 * Les patients sont suivis cliniquement durant deux semaines, alors que les études sur la mortalité de la covid-19 durent souvent 28 jours;
 
