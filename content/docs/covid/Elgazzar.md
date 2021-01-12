@@ -6,7 +6,7 @@ weight: 5
 
 ## **Elgazzar et al. 2020 (preprint)**
 
-Quelques éléments, complémentaires à ceux répertoriés [ici](https://twitter.com/zchagla/status/1345853424827588611), indiquant qu'on ne peut se fier aux résultats de [l'étude de Elgazzar et al.](https://www.researchsquare.com/article/rs-100956/v3)  (non publiée):
+Quelques éléments, complémentaires à [ceux répertoriés ici](https://twitter.com/zchagla/status/1345853424827588611), indiquant qu'on ne peut se fier aux résultats de [l'étude de Elgazzar et al.](https://www.researchsquare.com/article/rs-100956/v3)  (non publiée):
 
 * L'étude souffre du grave biais, déjà [mis en évidence](hcqmeta//#1-les-biais-des-%c3%a9tudes-incluses) pour plusieurs études sur l'HCQ, consistant à comptabiliser les patients réagissant mal au traitement dans le groupe de contrôle (comme s'ils n'avaient jamais reçu le traitement):
 
