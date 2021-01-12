@@ -1,7 +1,7 @@
 ---
-title: L'ivermectine
-bookHidden: true
-weight: 5
+title: IVM = new HCQ
+bookHidden: false
+weight: 4
 ---
 
 ## **L'ivermectine, la nouvelle hydroxychloroquine**
@@ -9,7 +9,7 @@ weight: 5
 Quelques éléments pour se convaincre qu'il n'y a pas plus de raisons de croire en les bienfaits de l'ivermectine (IVM) pour soigner la covid-19 qu'en ceux de l'hydroxychloroquine (HCQ).
 
 
-### **Les éléments _a priori_** 
+### **Les éléments _a priori_ (fiabilité des sources)** 
 
 * Un des principaux sites vantant les mérités de l'IVM (https://ivmmeta.com) est un clone de celui vantant les mérites de l'HCQ (https://hcqmeta.com), dont le caractère frauduleux a été montré (voir par exemple [ici](https://cogid.netlify.app/docs/covid/hcqmeta)); 
 
@@ -26,16 +26,18 @@ Quelques éléments pour se convaincre qu'il n'y a pas plus de raisons de croire
 * Le [seul autre ECR publié](https://www.ijsciences.com/pub/pdf/V92020092378.pdf) à ce jour sur l'IVM comme traitement de la covid-19 rapporte une absence d'effet statistiquement significatif;
 
 
-### **Les éléments de fond** 
+### **Les éléments de fond (données scientifiques)** 
 
 
-* Les études cliniques sur lesquelles se basent les soi-disant méta-analyses de Kory et Hill ne sont pas fiables, comme cela est expliqué [ici](https://twitter.com/zchagla/status/1345853424827588611) et [ici](https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html).
-Plus de détails sur l'étude d'Elgazzar et al., qui apparaît comme la plus favorable dans le tableau de Hill  (et constitue la seule référence de la [carte blanche publiée par M. Wathelet](https://www.lalibre.be/debats/opinions/monsieur-le-ministre-un-traitement-et-une-prevention-efficaces-sont-disponibles-contre-le-covid-19-5fb291889978e20e7059d651) à ce sujet le 16/11/20 dans La Libre), sont donnés [ici](https://cogid.netlify.app/docs/covid/elgazzar/);
+* Les études cliniques sur lesquelles se basent les soi-disant méta-analyses de Kory et Hill ne sont pas fiables, comme cela est expliqué [ici](https://twitter.com/zchagla/status/1345853424827588611) et [ici](https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html). Plus d'informations sur l'étude d'Elgazzar et al., dont les résultats apparaissent comme les plus favorables à l'IVM dans le tableau de Hill (et constituent l'unique référence de la [carte blanche publiée par M. Wathelet à ce sujet dans La Libre du 16/11/20 ](https://www.lalibre.be/debats/opinions/monsieur-le-ministre-un-traitement-et-une-prevention-efficaces-sont-disponibles-contre-le-covid-19-5fb291889978e20e7059d651) ), sont donnés [ici](elgazzar);
 
-* Le mécanisme d'action proposé pour expliquer l'effet de cette molécule _in vitro_ (et justifier la réalisation d'essais cliniques alors que la phase pré-clinique n'a pas été complétée) apparaît peu crédible aux yeux de certains spécialistes, cf. [ici](https://twitter.com/FlorianLemaitr5/status/1338162974733766660?s=20) et [ici](https://www.facebook.com/may.hem.94/posts/10219698444065446);
+* Le mécanisme d'action proposé pour expliquer l'effet de cette molécule _in vitro_ (et justifier la réalisation d'essais cliniques alors que la phase pré-clinique n'a pas été complétée) apparaît peu plausible aux yeux de plusieurs spécialistes, cf. [ici](https://twitter.com/FlorianLemaitr5/status/1338162974733766660?s=20) et [ici](https://www.facebook.com/may.hem.94/posts/10219698444065446);
+
+* Des données _in vitro_ indiquent que l'IVM est cytotoxique aux concentrations nécessaires pour atteindre un effet anti-viral, cf. [ici](https://www.facebook.com/may.hem.94/posts/10221911208703179) et [ici](https://twitter.com/houndcl/status/1268893729366171649). Les résultats sur lesquels se basent ces analyses sont publiés dans [cette base de données du NIH](https://opendata.ncats.nih.gov/covid19/databrowser?q=ivermectin) (la coïncidence entre effet anti-viral et cytoxicité est résumée dans le tableau par la présence du symbole rose en vis-à-vis du symbole vert dans les colonnes "Sars-Cov-2 cytopathic effect") ;
+
+* Enfin, des études pharmacocinétiques et pharmacodynamiques suggèrent que pour atteindre les concentrations plasmatiques nécessaires pour reproduire l'effet anti-viral observé _in vitro_, il faudrait administrer des doses 100 fois plus élevées que celles approuvées chez les humains (cf. [ici](https://twitter.com/MathieuMolimard/status/1337405564201152514) et [ici](https://www.20minutes.fr/societe/2935679-20201219-coronavirus-non-ivermectine-medicament-tres-efficace-contre-maladie));
 
 
-* Des données _in vitro_ sur l'IVM indiquent que la molécule est cytotoxique aux concentrations nécessaires pour atteindre un effet anti-viral, cf. [ici](https://www.facebook.com/may.hem.94/posts/10221911208703179) et [ici](https://twitter.com/houndcl/status/1268893729366171649). Les résultats auxquels ces deux scientifiques se réfèrent sont disponibles dans [cette base de données](https://opendata.ncats.nih.gov/covid19/databrowser?q=ivermectin) (la coïncidence entre effet anti-viral et cytoxicité est résumée dans le tableau par la présence du symbole rose en vis-à-vis du symbole vert dans les colonnes Sars-Cov-2 cytopathic effect) ;
 
 
 

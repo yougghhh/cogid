@@ -8,7 +8,7 @@ weight: 5
 
 Quelques éléments, complémentaires à [ceux répertoriés ici](https://twitter.com/zchagla/status/1345853424827588611), indiquant qu'on ne peut se fier aux résultats de [l'étude de Elgazzar et al.](https://www.researchsquare.com/article/rs-100956/v3)  (non publiée):
 
-* L'étude souffre du grave biais, déjà [mis en évidence](hcqmeta//#1-les-biais-des-%c3%a9tudes-incluses) pour plusieurs études sur l'HCQ, consistant à comptabiliser les patients réagissant mal au traitement dans le groupe de contrôle (comme s'ils n'avaient jamais reçu le traitement):
+* L'étude souffre de la source importante de biais, déjà [mis en évidence](hcqmeta//#1-les-biais-des-%c3%a9tudes-incluses) pour plusieurs études sur l'HCQ, consistant à comptabiliser les patients réagissant mal au traitement dans le groupe de contrôle (comme s'ils n'avaient jamais reçu le traitement):
 
 > _Any patient demonstrates worsening of symptoms; radiological progression with virologically persistence within at least 7 days of the therapeutic evaluation period of the study after exclusion of cytokine storm was considered as a clinical failure and was shifted to the other management_
 
