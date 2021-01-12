@@ -35,7 +35,7 @@ Plus de détails sur l'étude d'Elgazzar et al., qui apparaît comme la plus fav
 * Le mécanisme d'action proposé pour expliquer l'effet de cette molécule _in vitro_ (et justifier la réalisation d'essais cliniques alors que la phase pré-clinique n'a pas été complétée) apparaît peu crédible aux yeux de certains spécialistes, cf. [ici](https://twitter.com/FlorianLemaitr5/status/1338162974733766660?s=20) et [ici](https://www.facebook.com/may.hem.94/posts/10219698444065446);
 
 
-* Des données _in vitro_ sur l'IVM indiquent que la molécule est cytotoxique aux concentrations nécessaires pour atteindre un effet anti-viral, cf. [ici](https://www.facebook.com/may.hem.94/posts/10221911208703179) et [ici](https://twitter.com/houndcl/status/1268893729366171649). Les deux scientifiques s'appuient sur [cette base de données](https://opendata.ncats.nih.gov/covid19/databrowser?q=ivermectin) (la corrélation entre effet anti-viral et toxicité est résumée dans le tableau par la présence d'un symbole rose en vis-à-vis de chaque symbole vert dans les colonnes relatives au Sars-Cov2) ;
+* Des données _in vitro_ sur l'IVM indiquent que la molécule est cytotoxique aux concentrations nécessaires pour atteindre un effet anti-viral, cf. [ici](https://www.facebook.com/may.hem.94/posts/10221911208703179) et [ici](https://twitter.com/houndcl/status/1268893729366171649). Les résultats auxquels ces deux scientifiques se réfèrent sont disponibles dans [cette base de données](https://opendata.ncats.nih.gov/covid19/databrowser?q=ivermectin) (la coïncidence entre effet anti-viral et cytoxicité est résumée dans le tableau par la présence du symbole rose en vis-à-vis du symbole vert dans les colonnes Sars-Cov-2 cytopathic effect) ;
 
 
 
