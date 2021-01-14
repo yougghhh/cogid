@@ -180,7 +180,7 @@ Enfin, il est ironique de noter que certains sympathisants de D. Raoult, tels qu
 <details id="ecr-vs-obs" open>
   <summary>10. N'existe-t-il pas des circonstances où une étude observationnelle est préférable à un essai contrôlé randomisé (ECR)?</summary>
 
-Oui, lorsqu'il n'est pas possible d'effectuer un ECR pour des raisons éthiques[^ethiqueECR]. Un des exemples les plus connus est l'étude des effets du tabac sur la santé. On n'a évidemment jamais imposé à un groupe d'individus de fumer une certaine quantité de tabac par jour pour étudier ses effets; on a à la place comparé des populations de fumeurs (déjà "pratiquants") à des populations de non-fumeurs avec des caractéristiques aussi similaires que possible (voir par exemple [cette vidéo](](https://www.youtube.com/watch?v=aqMyngADnMU))).
+Oui, lorsqu'il n'est pas possible d'effectuer un ECR pour des raisons éthiques[^ethiqueECR]. Un des exemples les plus connus est l'étude des effets du tabac sur la santé. On n'a évidemment jamais imposé à un groupe d'individus de fumer une certaine quantité de tabac par jour pour étudier ses effets; on a à la place comparé des populations de fumeurs (déjà "pratiquants") à des populations de non-fumeurs avec des caractéristiques aussi similaires que possible (voir par exemple [cette vidéo](https://www.youtube.com/watch?v=aqMyngADnMU)).
 
 [^ethiqueECR]: Et comme l'illustre brillament [cette vidéo](https://www.youtube.com/watch?v=-9Jv4aO9y70) par 7 exemples issus de l'histoire de la médecine, ce n'est généralement pas donner un placebo en lieu et place d'un traitement "prometteur" qui est non éthique, c'est donner un traitement dont aucun ECR n'a montré l'efficacité...
 
