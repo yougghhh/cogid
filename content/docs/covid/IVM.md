@@ -6,7 +6,7 @@ weight: 4
 
 ## **L'ivermectine, la nouvelle hydroxychloroquine**
 
-Quelques éléments pour se convaincre qu'il n'y a pas plus de raisons de croire en les bienfaits de l'ivermectine (IVM) pour soigner la covid-19 qu'en ceux de l'hydroxychloroquine (HCQ)... et qu'il est peu plausible que cela change.
+Quelques éléments indiquant qu'il n'y a pas plus de raisons de croire en les bienfaits de l'ivermectine (IVM) pour soigner la covid-19 qu'en ceux de l'hydroxychloroquine (HCQ)... et qu'il est peu plausible que cela change.
 
 
 ### **Les éléments _a priori_ (fiabilité des sources)** 
@@ -17,7 +17,9 @@ Quelques éléments pour se convaincre qu'il n'y a pas plus de raisons de croire
 
 * L'auteur de la troisième  "méta-analyse" sur le sujet, P. Kory, a le [soutien de l'AAPS](https://twitter.com/AlexSamTG/status/1342541512261967874), une association américaine qui dit entre autres que le HIV ne serait pas la cause du SIDA, qu'être gay réduirait l'espérance de vie, ... et qui entretient des liens avec le tea party;
 
-* Aucune de ces trois soi-disant méta-analyses n'a été publiée dans une revue à comité de lecture;
+* Aucune de ces trois soi-disant méta-analyses n'a été publiée dans une revue à comité de lecture[^frontiers];
+
+[^frontiers]: Un journal [peu fiable](https://forbetterscience.com/2018/12/20/frontiers-a-danger-for-public-health/) (dont [de nombreux éditeurs, refusant de publier des articles de qualité scientifique insuffisante, se sont faits remercier](https://forbetterscience.com/2018/03/06/editor-sacked-over-rejection-rate-not-inline-with-frontiers-core-principles/)) a accepté provisionnellement de publier un [article de Kory et al. sur l'IVM](https://www.frontiersin.org/articles/10.3389/fphar.2021.643369/), mais visiblement sans lui accorder le titre de "méta-analyse". Alors que l’article complet n’est pas encore disponible (ce 17/01/21), un commentateur a déjà fait remarquer que des informations fausses sont rapportées dès l’abstract: les auteurs s’attribuent indûment la paternité de la découverte des propriétés anti-virale et anti-inflammatoire de l’IVM.
 
 * L'engouement pour l'IVM en Amérique latine fait largement suite à la diffusion d'un papier, maintenant rétracté, cosigné par 3 des auteurs (Patel, Desai et Mehra) de la tristement célèbre étude rétractée sur l'HCQ (cf. [ici](https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/ivermectin-and-covid-19-how-a-flawed-database-shaped-the-covid-19-response-of-several-latin-american-countries/2877257/0)); Les dégats engendrés par cette désinformation sont notamment répertoriés [ici](https://twitter.com/lionel_case/status/1338766481820164096);
 
