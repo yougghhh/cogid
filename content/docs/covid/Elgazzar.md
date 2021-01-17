@@ -6,9 +6,10 @@ weight: 5
 
 ## **Elgazzar et al. 2020 (preprint)**
 
-Quelques éléments, complémentaires à [ceux répertoriés ici](https://twitter.com/zchagla/status/1345853424827588611), indiquant qu'on ne peut se fier aux résultats de [l'étude de Elgazzar et al.](https://www.researchsquare.com/article/rs-100956/v3)  (non publiée):
+Quelques éléments, complémentaires à ceux relevés [ici](https://www.hug.ch/sites/interhug/files/structures/coronavirus/documents/ivermectine-et-covid-19.pdf
+) et [ici](https://twitter.com/zchagla/status/1345853424827588611), indiquant qu'on ne peut se fier aux résultats de [l'étude de Elgazzar et al.](https://www.researchsquare.com/article/rs-100956/v3)  (non publiée):
 
-* Les auteurs ne donnent aucune info sur la manière dont ils sont parvenus à avoir (exactement...) 100 patients dans chacun des groupes comparés. Généralement, après recrutement, il faut exclure un grand nombre de patients, en particulier ceux qui présentent des contre-indications au traitement. Ensuite, il est courant que des patients abandonnent le traitement en cours de route, ce qui doit également être mentionné. Cela est généralement fait dans un diagramme [de ce type](https://www.sciencedirect.com/science/article/pii/S2589537020303898#fig0001), absent de l'article d'Elgazzar et al. 
+* Les auteurs ne donnent aucune info sur la manière dont ils sont parvenus à avoir (exactement...) 100 patients dans chacun des groupes comparés. Généralement, après recrutement, il faut exclure un grand nombre de patients des essais cliniques, en particulier ceux qui présentent des contre-indications au traitement. Ensuite, il est courant que des patients abandonnent le traitement en cours de route, ce qui doit également être mentionné. Ces informations sont généralement données dans un diagramme [de ce type](https://www.sciencedirect.com/science/article/pii/S2589537020303898#fig0001), absent de l'article d'Elgazzar et al. 
 
 * Il semble que l'étude souffre de la source importante de biais, déjà [mis en évidence](hcqmeta//#1-les-biais-des-%c3%a9tudes-incluses) pour plusieurs études sur l'HCQ, qui consiste à comptabiliser les patients réagissant mal au traitement dans le groupe de contrôle (comme s'ils n'avaient jamais reçu le traitement):
 
@@ -22,7 +23,7 @@ Quelques éléments, complémentaires à [ceux répertoriés ici](https://twitte
   <figcaption> <it> Table 3, Elgazzar et al. 2020 (preprint). </figcaption>
 </figure>
 
-* Les patients sont suivis cliniquement durant deux semaines, alors que les études sur la mortalité de la covid-19 durent généralement 28 jours;
+* La durée de suivi des patients est de deux semaines, alors que les études examinant un effet sur la mortalité de la covid-19 durent généralement 28 jours;
 
 * L'article comporte plusieurs affirmations non scientifiques, telles que:
 
