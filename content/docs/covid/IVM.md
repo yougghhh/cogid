@@ -34,7 +34,7 @@ Quelques éléments indiquant qu'il n'y a pas plus de raisons de croire en les b
 
 
 * Les études cliniques sur lesquelles se basent les soi-disant méta-analyses de Kory et Hill ne sont pas fiables, comme cela est expliqué [ici](https://www.hug.ch/sites/interhug/files/structures/coronavirus/documents/ivermectine-et-covid-19.pdf
-), [ici](https://twitter.com/zchagla/status/1345853424827588611) et [ici](https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html). Or, une "méta-analyse" (synthèse statistique) incluant des études à fort risque de biais n'en est pas une - le résultat obtenu n'a aucun sens.<br>
+), [ici](https://twitter.com/zchagla/status/1345853424827588611) et [ici](https://rechercheindependante.blogspot.com/2020/12/livermectine-maintenant-contre-la-covid.html). Or, une "méta-analyse" (synthèse statistique) incluant des études à fort risque de biais n'en est pas une - le résultat obtenu est au mieux non fiable, au pire mensonger.<br>
 En particulier, quelques exemples des graves manquements/incohérences de [l'étude de Elgazzar et al.](https://www.researchsquare.com/article/rs-100956/v3), dont les résultats apparaissent comme les plus favorables dans les synthèses de Hill et de Kory (et constituent l'unique référence de la [carte blanche publiée par M. Wathelet à ce sujet dans La Libre du 16/11/20 ](https://www.lalibre.be/debats/opinions/monsieur-le-ministre-un-traitement-et-une-prevention-efficaces-sont-disponibles-contre-le-covid-19-5fb291889978e20e7059d651) ), sont donnés [ici](elgazzar);
 
 
