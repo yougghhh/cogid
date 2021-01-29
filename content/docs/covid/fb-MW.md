@@ -26,4 +26,5 @@ weight: 10
 
 ![MW6](../img/postMW-rep-de-MW2HC.png)
 
+Les derniers échanges ont été supprimés par Marc Wathelet.<br>
 (La dernière figure est consultable en haute résolution [ici]( http://metaevidence.org/viewMApredictive3.aspx?endpointType=safety&exposition=684&comparator=649&pathology=87&domain=12&selFocus=0).)
